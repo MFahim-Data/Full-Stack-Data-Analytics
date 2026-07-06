@@ -18,14 +18,20 @@ Heading 2
 
 
 
-module 2.1 – tableau
+module 2 – tableau - introductory data visualisation & analysis
+
+Heading 3
+
+![tableau day 1 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%201%20Task%201.PNG)
+
+
 day 1 task 2
 
 day 2 task 1
 
 day 2 task 2
 
-module 2.2 – power bi
+module 3 – power bi
 screenshots from skillable labs
 
 module 3 – sql
