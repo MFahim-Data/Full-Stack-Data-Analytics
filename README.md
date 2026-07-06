@@ -45,16 +45,21 @@ data cleaning & visual analysis - Removing Confidential data, creating relations
 
 
 
-
-
-
-
 module 3 – sql
-day 4 task 1
+Developing ERDS - 
+
+
+day 4 task 1 - Developed a Actionable Structured System For Local Corner Shop (Click for full report)
+
 
 day 4 task 2
 
 include your data insights from the query results
+
+
+
+
+
 
 module 4 – azure
 no workbook tasks included
