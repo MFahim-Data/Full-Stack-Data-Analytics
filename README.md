@@ -31,6 +31,7 @@ Heading 3
 
 day 2 task 1 - Colbbarative visuals analysis and presentation - created visuals, created dashboards and corodinated our team to present out finding in a clear way 
 
+Heading 4 
 ![tableau day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%202%20-%20Task%201.png)
 
 
@@ -39,35 +40,82 @@ module 3 – power bi
 
 data cleaning & visual analysis - Removing Confidential data, creating relationships, Q/A Analysis, Developing Visuals.
 
-
+Heading 5
 ![power bi day 3 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Day%203%20-%20Task%201%20-%20Power%20Bi%20-%20Data%20Clearing%20and%20Visuals%20.png)
 
 
 
 
 module 3 – sql
-Developing ERDS - 
-
 
 day 4 task 1 - Developed a Actionable Structured System For Local Corner Shop (Click for full report)
 
 
-day 4 task 2
-
-include your data insights from the query results
-
+Heading 6
+![sql day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/SQL%20-%20Day%202%20-%20Task%201%20-%20Actionable%20Essay.png)
 
 
 
+day 4 task 2 include your data insights from the query results
 
 
-module 4 – azure
-no workbook tasks included
 
-module 5.1 – python
+Link to other page
+
+------------------
+
+
+module 5 – azure
+
+azure – enterprise analytics with synapse & machine learning
+
+Images 
+Text
+
+
+
+azure – data integration and automation using data factory
+
+Images 
+Text
+
+
+module 6 – pandas
+imported directly from google colab into github
+
+
+
+# Loop through numbers 1 to 100. 
+# Create an empty string, for use later
+# If the number is divisible by 3, add "Fizz" to the string. 
+# If the number is divisible by 5, add "Buzz" to the string. 
+# If the number is not divisible by 3 or 5, convert the number to a string and add it. 
+# Print the final string 
+# Convert num to STR , then +1
+
+for num in range(1, 101): 
+   string = "" 
+   if num % 3 == 0: 
+       string = string + "Fizz" 
+   if num % 5 == 0: 
+       string = string + "Buzz" 
+   if num % 3 != 0 and num % 5 != 0: 
+       string = string + str(num) 
+   print(string)
+
+
+
+
+
+
+
+
+module 7 – python
 day 3 task 1
 
 day 4 task 1 (if completed)
 
-module 5.2 – pandas
-imported directly from google colab into github
+
+
+
+![full stack data analytics portfolio](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/README.png)
