@@ -85,13 +85,13 @@ imported directly from google colab into github
 
 
 
-# Loop through numbers 1 to 100. 
-# Create an empty string, for use later
-# If the number is divisible by 3, add "Fizz" to the string. 
-# If the number is divisible by 5, add "Buzz" to the string. 
-# If the number is not divisible by 3 or 5, convert the number to a string and add it. 
-# Print the final string 
-# Convert num to STR , then +1
+ Loop through numbers 1 to 100. 
+ Create an empty string, for use later
+ If the number is divisible by 3, add "Fizz" to the string. 
+ If the number is divisible by 5, add "Buzz" to the string. 
+ If the number is not divisible by 3 or 5, convert the number to a string and add it. 
+ Print the final string 
+ Convert num to STR , then +1
 
 for num in range(1, 101): 
    string = "" 
@@ -112,6 +112,12 @@ for num in range(1, 101):
 
 module 7 – python
 day 3 task 1
+
+
+
+
+
+
 
 day 4 task 1 (if completed)
 
