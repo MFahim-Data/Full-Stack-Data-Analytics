@@ -39,7 +39,9 @@ module 3 – power bi
 
 data cleaning & visual analysis
 
+
 ![power bi day 3 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Day%203%20-%20Task%201%20-%20Power%20Bi%20-%20Data%20Clearing%20and%20Visuals%20.png)
+
 
 
 
