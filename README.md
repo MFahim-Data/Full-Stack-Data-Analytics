@@ -5,6 +5,9 @@ modules
 module 1 – excel
 Retail Sales Data - Created a Table, Applied Filters and Performed Aggregate Function
 
+![excel day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%202%20Task%201.PNG)
+
+
 day 2 task 3
 
 day 3 task 3
