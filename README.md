@@ -5,13 +5,7 @@ modules
 module 1 – excel
 Retail Sales Data - Created a Table, Applied Filters and Performed Aggregate Function
 
-day 2 task 2
-
 day 2 task 3
-
-day 3 task 1
-
-day 3 task 2
 
 day 3 task 3
 
