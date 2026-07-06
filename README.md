@@ -9,9 +9,14 @@ Heading 1
 ![excel day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%202%20Task%201.PNG)
 
 
-day 2 task 3
+Student Sales Data - analysing student performance using excel formulas
 
-day 3 task 3
+Heading 2 
+![excel day 3 task 3](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%203%20Task%203.PNG)
+
+
+
+
 
 module 2.1 – tableau
 day 1 task 2
