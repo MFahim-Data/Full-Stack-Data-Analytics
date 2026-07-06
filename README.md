@@ -34,10 +34,18 @@ day 2 task 1 - Colbbarative visuals analysis and presentation - created visuals,
 ![tableau day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%202%20-%20Task%201.png)
 
 
-day 2 task 2
 
 module 3 – power bi
-screenshots from skillable labs
+
+data cleaning & visual analysis
+
+![power bi day 3 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Day%203%20-%20Task%201%20-%20Power%20Bi%20-%20Data%20Clearing%20and%20Visuals%20.png)
+
+
+
+
+
+
 
 module 3 – sql
 day 4 task 1
