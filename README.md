@@ -18,16 +18,21 @@ Heading 2
 
 
 
-module 2 – tableau - introductory data visualisation & analysis
+module 2 – tableau
+
+Introductory data visualisation & analysis - Created Charts and visuals for 
 
 Heading 3
 
 ![tableau day 1 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%201%20Task%201.PNG)
 
 
-day 1 task 2
 
-day 2 task 1
+
+day 2 task 1 - Colbbarative visuals analysis and presentation - created visuals, created dashboards and corodinated our team to present out finding in a clear way 
+
+![tableau day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%202%20-%20Task%201.png)
+
 
 day 2 task 2
 
