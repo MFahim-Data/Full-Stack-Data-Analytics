@@ -3,7 +3,7 @@ aspiring data analyst with full‑stack skills including python, pandas, mysql, 
 
 modules
 module 1 – excel
-day 2 task 1
+Retail Sales Data - Created a Table, Applied Filters and Performed Aggregate Function
 
 day 2 task 2
 
