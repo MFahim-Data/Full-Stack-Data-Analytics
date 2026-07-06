@@ -116,6 +116,16 @@ day 3 task 1
 day 4 task 1 (if completed)
 
 
+Bar 
+![python day 4 task 1 – bar chart](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PYTHON%20-%20Day%204%20Task%201%20-%20Bar%20Chart.png)
 
 
-![full stack data analytics portfolio](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/README.png)
+
+
+Scatter
+![python day 4 task 1 – scatter chart](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PYTHON%20-%20Day%204%20Task%201%20-%20Scatter%20Chart.png)
+
+
+
+Whiskers
+![python day 4 task 1 – box and whisker chart](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PYTHON%20-%20Day%204%20Task%201%20-%20Whiskers%20Chart.png)
