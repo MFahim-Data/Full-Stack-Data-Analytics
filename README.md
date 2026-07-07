@@ -29,8 +29,9 @@ In this section, I showcase my data analytics projects — outlining the problem
 
 
 ---
-#### module 1 – excel  
-### retail sales data
+### module 1 – excel  
+
+#### retail sales data
 
 #### Dataset  - Retail_Sales_Dataset
 
