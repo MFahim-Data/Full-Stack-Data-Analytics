@@ -1,5 +1,5 @@
 # mohammed fahim  
-### data technician trainee · aspiring full‑stack data analyst
+### data technician trainee · aspiring data analyst
 
 building practical, real‑world data projects using **python**, **sql**, **excel**, **tableau**, **power bi**, and **azure**.
 
@@ -8,18 +8,18 @@ building practical, real‑world data projects using **python**, **sql**, **exce
 ### socials  
 - [linkedin](#)  
 - [github](#)  
-- [portfolio](#)  
 - [email](#)
 
 ---
 
 ### core skills  
-- **data cleaning & modelling**  
-- **visual analytics & dashboards**  
-- **python scripting & automation**  
-- **sql querying & database logic**  
-- **azure synapse & data factory pipelines**
-
+- **python** — scripting, loops, and basic data visualisation  
+- **pandas** — data cleaning, filtering, grouping, colab notebooks  
+- **sql** — joins, grouping, business logic systems, insights  
+- **excel** — tables, filters, formulas, structured modelling  
+- **tableau** — charts, dashboards, collaborative storytelling  
+- **power bi** — cleaning, relationships, interactive visuals  
+- **azure** — synapse analytics, machine learning notebooks, data factory pipelines
 
 
 
