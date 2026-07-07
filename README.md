@@ -51,7 +51,7 @@ In the sheet **retail_sales_dataset**, I was required to:
 
 
 ---
-> #### retail sales data – output  
+> #### Retail sales Data Output 
 > ![excel day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%202%20Task%201.PNG)
 
 
