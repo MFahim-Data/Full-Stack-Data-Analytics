@@ -336,7 +336,10 @@ This task demonstrated practical data‑analysis skills using Pandas: understand
 ---
 
 > #### pandas student analysis – output  
-> *(Screenshots and full code will be added later — link to the coding page.)*
+
+**Notebook Link:**  
+[Student Data Analysis – Day 4 Task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Day_4_Task_1.ipynb)
+
 
 ```python
 # load data
