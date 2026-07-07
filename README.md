@@ -160,8 +160,9 @@ https://public.tableau.com/views/Spotify_17803278788110/Dashboard2?:language=en-
 
 
 ---
+### Module 3 – Power BI  
+*This section is currently being updated. A full project write‑up will be added soon.*
 
-## module 3 – power bi  
 Data cleaning & visual analysis — Removing confidential data, creating relationships, Q/A analysis, developing visuals.
 
 ### heading 5  
