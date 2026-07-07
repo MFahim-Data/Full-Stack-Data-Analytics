@@ -31,7 +31,7 @@ In this section, I showcase my data analytics projects — outlining the problem
 ---
 ### module 1 – excel  
 
-#### retail sales data
+#### Excel - Retail Sales Analysis
 
 **Dataset:** Retail_Sales_Dataset
 
