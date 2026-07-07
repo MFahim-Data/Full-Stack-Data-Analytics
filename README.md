@@ -29,7 +29,9 @@ In this section, I showcase my data analytics projects — outlining the problem
 
 
 ---
-### module 1 – excel  
+### Module 1 - Excel  
+
+---
 
 #### Excel - Retail Sales Analysis
 
