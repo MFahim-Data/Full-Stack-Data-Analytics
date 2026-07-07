@@ -93,12 +93,39 @@ The analysis revealed clear performance differences between classes and genders,
 
 
 ---
+---
+### Module 2 – Tableau  
 
-## module 2 – tableau  
-Introductory data visualisation & analysis — Created charts and visuals.
+### Project 2 – Tableau – Introductory Data Visualisation & Analysis
 
-### heading 3  
-![tableau day 1 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%201%20Task%201.PNG)
+**Dataset:** GapminderHealth
+
+**Problem:**  
+Using Tableau, I was required to create a series of visualisations to explore global health trends, including:  
+- life expectancy by continent  
+- life expectancy trends over time  
+- population distribution by gender  
+- BMI vs life expectancy scatter plot  
+- a final dashboard combining all visuals
+
+**Approach Taken:**  
+Connected the dataset, checked data types, built multiple worksheets using basic Tableau features (filters, colours, axis formatting, aggregation changes), and combined them into a dashboard titled **Global Health Insights**.
+
+**Insights & Impact:**  
+The visuals revealed clear differences in life expectancy across continents, steady improvements over time, relationships between BMI and health outcomes, and major population distribution patterns — supporting global health planning and analysis.
+
+**Tableau Public Link:**  
+https://public.tableau.com/app/profile/mohammed.fahim6589/viz/Spotify_17803278788110/GenrePopularity?publish=yes
+
+---
+
+> #### tableau visual – output  
+> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%201%20Task%201.PNG" width="70%">
+> 
+> *Introductory Tableau visual created using the GapminderHealth dataset.*
+
+---
+
 
 ### heading 4  
 day 2 task 1 — Collaborative visuals analysis and presentation.  
