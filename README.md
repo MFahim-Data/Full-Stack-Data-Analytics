@@ -49,8 +49,12 @@ In the sheet **retail_sales_dataset**, I was required to:
 
 **Insights & Impact:** The analysis highlighted differences in commission distribution across age groups, revealed overall commission totals, and provided a quick snapshot of average earnings — supporting clearer decision‑making for retail performance evaluation.
 
-#### Image
+
+---
+
+#### retail sales data – output  
 ![excel day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%202%20Task%201.PNG)
+
 ---
 
 Student Sales Data — analysing student performance using Excel formulas.
