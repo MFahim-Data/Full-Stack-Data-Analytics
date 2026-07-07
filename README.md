@@ -1,11 +1,11 @@
 # mohammed fahim  
-## data technician trainee
+### data technician trainee
 
 building practical, real‑world data projects using **excel**, **tableau**, **power bi**, **sql**, **azure**, **pandas**, and **python**.
 
 ---
 
-## socials  
+### socials  
 - [linkedin](https://www.linkedin.com/in/mohammed-fahim-data/)  
 - [github](https://github.com/MFahim-Data)
 - email: <mohammedfahim4@outlook.com>
@@ -13,7 +13,7 @@ building practical, real‑world data projects using **excel**, **tableau**, **p
 
 ---
 
-## core skills  
+### core skills  
 - **excel** — tables, filters, formulas, structured data modelling  
 - **tableau** — charts, dashboards, collaborative visual storytelling  
 - **power bi** — data cleaning, relationships, interactive reporting  
@@ -25,14 +25,15 @@ building practical, real‑world data projects using **excel**, **tableau**, **p
 ---
 
 
-## Projects
+### Projects
 ---
 
 ### module 1 – excel  
+---
 Retail Sales Data — Created a table, applied filters, and performed aggregate functions.
 
 
-### heading 1  
+#### heading 1  
 ![excel day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%202%20Task%201.PNG)  
 Student Sales Data — analysing student performance using excel formulas.
 
