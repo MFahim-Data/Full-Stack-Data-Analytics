@@ -1,32 +1,31 @@
 # Mohammed Fahim  
 ### Data Technician Trainee
 
-Hi, I am a data technician trainee building practical projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
+Hi, I am a Data Technician Trainee building practical projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
 
 This GitHub Pages site showcases all my course modules, including real code, visualisations, cloud work, and analysis tasks completed throughout the programme.
 
 ---
 
-### socials  
-- [linkedin](https://www.linkedin.com/in/mohammed-fahim-data/)  
-- [github](https://github.com/MFahim-Data)
-- email: <mohammedfahim4@outlook.com>
-
-
----
-
-### core skills  
-- **excel** — tables, filters, formulas, structured data modelling  
-- **tableau** — charts, dashboards, collaborative visual storytelling  
-- **power bi** — data cleaning, relationships, interactive reporting  
-- **sql** — joins, grouping, business logic systems, insights  
-- **azure** — synapse analytics, machine learning notebooks, data factory pipelines  
-- **pandas** — data cleaning, filtering, grouping, colab notebooks  
-- **python** — scripting, loops, and basic data visualisation
+### Socials  
+- [LinkedIn](https://www.linkedin.com/in/mohammed-fahim-data/)  
+- [GitHub](https://github.com/MFahim-Data)  
+- Email: mohammedfahim4@outlook.com
 
 ---
 
-### Portfolio Projects
+### Core Skills  
+- **Excel** — tables, filters, formulas, structured data modelling  
+- **Tableau** — charts, dashboards, collaborative visual storytelling  
+- **Power BI** — data cleaning, relationships, interactive reporting  
+- **SQL** — joins, grouping, business logic systems, insights  
+- **Azure** — Synapse Analytics, Machine Learning notebooks, Data Factory pipelines  
+- **Pandas** — data cleaning, filtering, grouping, Colab notebooks  
+- **Python** — scripting, loops, and basic data visualisation
+
+---
+
+### Portfolio Projects  
 In this section, I showcase my data analytics projects — outlining the problem, the data used, the approach taken, and the insights or business impact delivered.
 
 
