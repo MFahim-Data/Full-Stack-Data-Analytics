@@ -169,9 +169,35 @@ Data cleaning & visual analysis — Removing confidential data, creating relatio
 ![power bi day 3 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Day%203%20-%20Task%201%20-%20Power%20Bi%20-%20Data%20Clearing%20and%20Visuals%20.png)
 
 ---
+---
+### Module 4 – SQL  
 
-## module 4 – sql  
-day 4 task 1 — Developed an actionable structured system for a local corner shop *(click for full report)*.
+### Project 4 – SQL – Retail Database Design & Implementation  
+*Note: Remember to link this section to the full 400–500 word essay when you have time.*
+
+**Dataset / Scenario:**  
+A small corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points. The goal is to streamline operations and support staff and managers with accurate, structured data.
+
+**Problem:**  
+I was required to design and build a relational database that:  
+- stores supplier, inventory, sales, customer, and loyalty programme data  
+- defines clear primary and foreign key relationships  
+- supports daily operations such as stock checks, sales recording, and loyalty tracking  
+- includes SQL examples for creating tables, inserting data, and maintaining accuracy
+
+**Approach Taken:**  
+I analysed the business requirements, identified the essential tables, designed a relational schema, and implemented it using SQL `CREATE TABLE`, `INSERT`, and `FOREIGN KEY` statements. I ensured each table connected logically to support real‑world shop operations.
+
+**Insights & Impact:**  
+The database structure supports efficient stock management, accurate sales tracking, customer loyalty monitoring, and secure data handling. Clear relationships between tables make it easy for staff and managers to understand and use the system, improving reliability and operational flow.
+
+---
+
+> #### retail database – output  
+> *(No visual for this project — link to full essay when ready.)*
+
+---
+
 
 ### heading 6  
 ![sql day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/SQL%20-%20Day%202%20-%20Task%201%20-%20Actionable%20Essay.png)
