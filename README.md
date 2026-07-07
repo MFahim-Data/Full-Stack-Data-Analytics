@@ -196,14 +196,33 @@ The database structure supports efficient stock management, accurate sales track
 > #### retail database – output  
 > *(No visual for this project — link to full essay when ready.)*
 
----
-
-
-### heading 6  
 ![sql day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/SQL%20-%20Day%202%20-%20Task%201%20-%20Actionable%20Essay.png)
 
+---
 day 4 task 2 — Includes insights from query results.  
 (link to full page)
+
+---
+### Module 4 – SQL  
+
+### Project 5 – SQL – World Database Practical  
+*Note: Remember to make a separate page showing the full SQL code + screenshots.*
+
+**Dataset:** world_db (MySQL Workbench)
+
+**Problem:**  
+Using the **world_db** dataset, I was required to write SQL queries to analyse global cities, countries, populations, and demographic trends. Each task included a scenario, required SQL syntax, and a screenshot of the output.
+
+**Approach Taken:**  
+Connected to the world database, used SELECT queries with filters, sorting, grouping, and joins. Applied LIMIT, LIKE, BETWEEN, ORDER BY, and aggregate functions to answer each scenario. Troubleshooting was done using AI explanations for Level 3 learners.
+
+**Insights & Impact:**  
+The SQL tasks demonstrated how structured queries can extract meaningful insights from large datasets — including population trends, city name patterns, demographic distributions, and country-level comparisons. These skills support real-world data analysis, reporting, and decision‑making.
+
+---
+
+> #### world database – output  
+> *(Screenshots will be added later — remember to create a full SQL assignment page.)*
 
 ---
 
