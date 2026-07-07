@@ -1,5 +1,63 @@
-hi, i'm fahim
-aspiring data analyst with full‑stack skills including python, pandas, mysql, power bi, tableau, excel, and azure.
+# mohammed fahim  
+### data technician trainee · aspiring full‑stack data analyst
+
+building practical, real‑world data projects using **python**, **sql**, **excel**, **tableau**, **power bi**, and **azure**.
+
+---
+
+### socials  
+- [linkedin](#)  
+- [github](#)  
+- [portfolio](#)  
+- [email](#)
+
+---
+
+### core skills  
+- **data cleaning & modelling**  
+- **visual analytics & dashboards**  
+- **python scripting & automation**  
+- **sql querying & database logic**  
+- **azure synapse & data factory pipelines**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 modules
 module 1 – excel
