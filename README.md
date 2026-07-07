@@ -1,5 +1,5 @@
-# mohammed fahim  
-### data technician trainee
+# Mohammed Fahim  
+### Data Technician Trainee
 
 Hi, I am a data technician trainee building practical projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
 
