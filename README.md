@@ -294,7 +294,12 @@ FizzBuzz demonstrates core Python fundamentals: loops, conditionals, modulo oper
 ---
 
 > #### fizzbuzz – output  
-> *(Output visible in Google Colab — remember to link the notebook.)*
+
+**Notebook Link:**  
+[FizzBuzz Notebook (Google Colab → GitHub)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Fizz_Buzz_Cpde.ipynb)
+
+
+
 
 ```python
 for num in range(1, 101):
