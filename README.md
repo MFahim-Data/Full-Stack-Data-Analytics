@@ -418,8 +418,10 @@ These tasks demonstrate practical Python data‑analysis skills and the ability 
 
 ---
 
-> #### python visualisations – output  
-> *(Screenshots included below — remember to link to the full notebook.)*
+> #### python visualisations – output
+**Notebook Link:**  
+[Student Data Analysis – Task 2 (Cleaning & Visualising Data)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Task_2_Cleaning_and_Visualising_data.ipynb)
+
 
 ### bar  
 <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PYTHON%20-%20Day%204%20Task%201%20-%20Bar%20Chart.png" width="70%">
