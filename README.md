@@ -33,19 +33,19 @@ In this section, I showcase my data analytics projects — outlining the problem
 
 #### retail sales data
 
-#### Dataset  - Retail_Sales_Dataset
+**Dataset:** Retail_Sales_Dataset
 
-#### Problem  - In the sheet **retail_sales_dataset**, I was required to:  
+**Problem:**  
+In the sheet **retail_sales_dataset**, I was required to:  
 - convert all data between columns **A–H** into a structured Excel table using **Ctrl+T**  
 - name the table  
 - filter the **Age** column from largest to smallest  
 - calculate the **total commission** in cell **P10** using `SUM()`  
 - calculate the **average commission** in cell **P11** using `AVERAGE()`
 
+**Approach Taken:** Created a table, applied column filters, and used Excel aggregate functions to generate summary metrics.
 
-#### Approach Taken  - Created a table, applied column filters, and used Excel aggregate functions to generate summary metrics.
-
-#### Insights & Impact - The analysis highlighted differences in commission distribution across age groups, revealed overall commission totals, and provided a quick snapshot of average earnings — supporting clearer decision‑making for retail performance evaluation.
+**Insights & Impact:** The analysis highlighted differences in commission distribution across age groups, revealed overall commission totals, and provided a quick snapshot of average earnings — supporting clearer decision‑making for retail performance evaluation.
 
 #### Image
 ![excel day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%202%20Task%201.PNG)
