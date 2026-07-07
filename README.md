@@ -23,19 +23,21 @@ building practical, real‑world data projects using **excel**, **tableau**, **p
 - **python** — scripting, loops, and basic data visualisation
 
 ---
-
-
 ### Projects
 ---
 
-### module 1 – excel  
----
-Retail Sales Data — Created a table, applied filters, and performed aggregate functions.
-
+## module 1 – excel  
+Retail Sales Data — created a table, applied filters, and performed aggregate functions.
 
 #### heading 1  
-![excel day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%202%20Task%201.PNG)  
-Student Sales Data — analysing student performance using excel formulas.
+![excel day 2 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%202%20Task%201.PNG)
+
+---
+
+Student Sales Data — analysing student performance using Excel formulas.
+
+#### heading 2  
+![excel day 3 task 3](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%203%20Task%203.PNG)
 
 
 ---
