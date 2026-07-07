@@ -8,7 +8,8 @@ building practical, real‑world data projects using **excel**, **tableau**, **p
 ### socials  
 - [linkedin](https://www.linkedin.com/in/mohammed-fahim-data/)  
 - [github](https://github.com/MFahim-Data)  
-- email: mohammedfahim4@outlook.com
+- email: <mohammedfahim4@outlook.com>
+
 
 ---
 
