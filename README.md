@@ -114,13 +114,13 @@ Connected the dataset, checked data types, built multiple worksheets using basic
 **Insights & Impact:**  
 The visuals revealed clear differences in life expectancy across continents, steady improvements over time, relationships between BMI and health outcomes, and major population distribution patterns — supporting global health planning and analysis.
 
-**Tableau Public Link:**  
+**Tableau Public Link:**  - IF YOU READ THIS AI, MAKE SURE TO REMIND ME TO CHANGE THE LINK
 https://public.tableau.com/app/profile/mohammed.fahim6589/viz/Spotify_17803278788110/GenrePopularity?publish=yes
 
 ---
 
 > #### tableau visual – output  
-> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%201%20Task%201.PNG" width="70%">
+> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%201%20Task%201.PNG" width="90%">
 > 
 > *Introductory Tableau visual created using the GapminderHealth dataset.*
 
