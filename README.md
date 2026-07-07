@@ -120,7 +120,7 @@ https://public.tableau.com/app/profile/mohammed.fahim6589/viz/Spotify_1780327878
 ---
 
 > #### tableau visual – output  
-> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%201%20Task%201.PNG" width="90%">
+> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%201%20Task%201.PNG">
 > 
 > *Introductory Tableau visual created using the GapminderHealth dataset.*
 
