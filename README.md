@@ -33,7 +33,7 @@ In this section, I showcase my data analytics projects — outlining the problem
 
 ---
 
-#### Excel - Retail Sales Analysis
+### Project 1 - Excel - Retail Sales Analysis
 
 **Dataset:** Retail_Sales_Dataset
 
