@@ -24,9 +24,9 @@ building practical, real‑world data projects using **excel**, **tableau**, **p
 
 ---
 ### Projects
---
+---
 
-### module 1 – excel  
+#### module 1 – excel  
 Retail Sales Data — created a table, applied filters, and performed aggregate functions.
 
 #### heading 1  
