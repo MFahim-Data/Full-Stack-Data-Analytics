@@ -1,7 +1,7 @@
 # mohammed fahim  
 ### data technician trainee
 
-Hi, I am a data technician trainee building practical, real‑world data projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
+Hi, I am a data technician trainee building practical projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
 
 This GitHub Pages site showcases all my course modules, including real code, visualisations, cloud work, and analysis tasks completed throughout the programme.
 
