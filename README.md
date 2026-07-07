@@ -60,17 +60,37 @@ In the sheet **retail_sales_dataset**, I was required to:
 
 ---
 
-Student Sales Data — analysing student performance using Excel formulas.
+### Project 2 – Excel – Student Performance Analysis
 
-#### heading 2  
-![excel day 3 task 3](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%203%20Task%203.PNG)
+**Dataset:** Student.csv
 
+**Problem:**  
+Using the imported **Student.csv** dataset, I was required to explore and analyse student performance by:  
+- creating a **Score Category** column using `IFS()`  
+- counting how many students fall into each category using `COUNTIF()`  
+- calculating **average performance by gender** using `AVERAGEIF()`  
+- calculating **average class scores** using `AVERAGEIF()` across multiple classes  
+- identifying the **best student in each class** using `MAX()` and `INDEX/MATCH`  
+- producing an overall summary table of results
+
+**Approach Taken:**  
+Developed new calculated fields, applied conditional logic, used aggregate Excel functions, and built summary metrics to evaluate student performance across categories, genders, and classes.
+
+**Insights & Impact:**  
+The analysis revealed clear performance differences between classes and genders, highlighted top‑performing students, and provided a structured breakdown of achievement categories — supporting more targeted academic evaluation.
 
 ---
 
+> #### student sales data – output  
+> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%203%20Task%203.PNG" width="70%">
+> 
+> *Student dataset analysis including score categories, averages, and top‑performer identification.*
 
-### heading 2  
-![excel day 3 task 3](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%203%20Task%203.PNG)
+> #### heading 2 – output  
+> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%203%20Task%203.PNG" width="70%">
+> 
+> *Additional view of the student performance calculations and summary table.*
+
 
 ---
 
