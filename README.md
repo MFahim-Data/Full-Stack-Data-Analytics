@@ -176,26 +176,20 @@ The database structure supports efficient stock management, accurate sales track
 > *Alternative ERD layout highlighting table relationships and key constraints.*
 
 
-
-
-
-
----
-## module 5 – azure  
-
-### synapse analytics & machine learning  
-Images  
-Text
-
-
-
-
-
 ---
 ### Module 5 – Azure  
 
 ### Project 6 – Azure – Cloud Migration & Data Strategy for Paws & Whiskers  
-*Note: Remember to link this section to the full Azure assignment when you have time.*
+
+
+> **FULL AZURE BRIEF REPORT:**  
+> [View Azure – Brief (PDF) →](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Brief.pdf)
+
+---
+
+> **FULL AZURE REPORT:**  
+> [View Azure – Full Report (PDF) →](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Report.pdf)
+
 
 **Scenario:**  
 Paws & Whiskers is a growing pet shop transitioning from spreadsheets to Microsoft Azure to improve data storage, security, automation, and analytics. The goal is to modernise operations and support data‑driven decision‑making.
@@ -218,7 +212,9 @@ Azure provides secure, compliant storage, automated data pipelines, advanced ana
 ---
 
 > #### azure cloud proposal – output  
-> *(No visual for this project — remember to link to the full report and add screenshots later.)*
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Azure/Azure%20-%20P%26W'S%20Schema.png" width="30%">
+> *Azure-based relational schema diagram for the Paws & Whiskers project.*
+
 
 ---
 
