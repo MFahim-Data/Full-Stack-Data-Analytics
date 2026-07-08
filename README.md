@@ -285,13 +285,20 @@ These tasks demonstrate practical Python data‑analysis skills and the ability 
 [Student Data Analysis – Task 2 (Cleaning & Visualising Data)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Task_2_Cleaning_and_Visualising_data.ipynb)
 
 
-### bar  
-<img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PYTHON%20-%20Day%204%20Task%201%20-%20Bar%20Chart.png" width="70%">
+---
+> #### python visualisation – bar chart output  
+<img src="https://raw.githubusercontent.com/MFahim-Data-Analytics/main/Images/Python/Python%20-%20Barchart%20-%20Count.png" width="100%">
+> *Countplot showing class size distribution across the dataset.*
 
-### scatter  
-<img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PYTHON%20-%20Day%204%20Task%201%20-%20Scatter%20Chart.png" width="70%">
 
-### whiskers  
-<img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PYTHON%20-%20Day%204%20Task%201%20-%20Whiskers%20Chart.png" width="70%">
+> #### python visualisation – heatmap output  
+<img src="https://raw.githubusercontent.com/MFahim-Data-Analytics/main/Images/Python/Python%20-%20Heatmap.png" width="100%">
+> *Correlation heatmap highlighting relationships between student performance variables.*
+
+
+> #### python visualisation – whiskers output  
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python/Python%20-%20Whiskers.png" width="100%">
+> *Box‑and‑whisker plot showing student score distribution and outliers.*
+
 
 ---
