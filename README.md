@@ -123,7 +123,7 @@ https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_l
 
 > #### tableau visual – output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Global%20Health%20Insights%20Dashboard.png" width="100%">
->
+> 
 > *Introductory Tableau visual created using the GapminderHealth dataset.*
 
 
