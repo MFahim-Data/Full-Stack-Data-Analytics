@@ -155,13 +155,13 @@ The database structure supports efficient stock management, accurate sales track
 
 > #### retail database – output
 > #### CUSTOMER ERD – OUTPUT  
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD.png" width="100%">
-> *Entity–relationship diagram showing customer, orders, and related relational structure.*
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD.png" width="60%">
+> *Entity–relationship diagram showing customer, orders, and relational structure.*
 
 ---
 
 > #### CUSTOMER ERD (VERSION 2) – OUTPUT  
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD%202.png" width="100%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD%202.png" width="60%">
 > *Alternative ERD layout highlighting table relationships and key constraints.*
 
 
