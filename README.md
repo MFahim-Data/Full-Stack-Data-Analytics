@@ -34,36 +34,11 @@ In this section, I showcase my data analytics projects — outlining the problem
 
 ---
 
-### Project 1 - Excel - Retail Sales Analysis
-
-**Dataset:** Retail_Sales_Dataset
-
-**Problem:**  
-In the sheet **retail_sales_dataset**, I was required to:  
-- convert all data between columns **A–H** into a structured Excel table using **Ctrl+T**  
-- name the table  
-- filter the **Age** column from largest to smallest  
-- calculate the **total commission** in cell **P10** using `SUM()`  
-- calculate the **average commission** in cell **P11** using `AVERAGE()`
-
-**Approach Taken:** Created a table, applied column filters, and used Excel aggregate functions to generate summary metrics.
-
-**Insights & Impact:** The analysis highlighted differences in commission distribution across age groups, revealed overall commission totals, and provided a quick snapshot of average earnings — supporting clearer decision‑making for retail performance evaluation.
-
-
----
-> #### retail sales data – output  
-> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%202%20Task%201.PNG" width="70%">
-> 
-> *Retail sales dataset table with filters applied and commission calculations.*
-
-
-
----
-
-### Project 2 – Excel – Student Performance Analysis
+### Project 1 – Excel – Student Performance Analysis
 
 **Dataset:** Student.csv
+Link: [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
+
 
 **Problem:**  
 Using the imported **Student.csv** dataset, I was required to explore and analyse student performance by:  
@@ -83,7 +58,8 @@ The analysis revealed clear performance differences between classes and genders,
 ---
 
 > #### student sales data – output  
-> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%203%20Task%203.PNG" width="70%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20-%20Student%20Data%20Image.png" width="100%">
+
 > 
 > *Student dataset analysis including score categories, averages, and top‑performer identification.*
 
