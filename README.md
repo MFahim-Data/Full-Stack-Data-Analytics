@@ -226,6 +226,11 @@ Azure provides secure, compliant storage, automated data pipelines, advanced ana
 ### Project 8 – Pandas – Student Data Analysis  
 *Note: Remember to link this section to the full coding page with screenshots.*
 
+
+---
+**Notebook Link:**  
+[Pandas Pivot Table – Student Analysis](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PANDAS_Pivot_Table.ipynb)
+--- 
 **Dataset:** student.csv
 
 **Problem:**  
@@ -239,60 +244,10 @@ This task demonstrated practical data‑analysis skills using Pandas: understand
 
 ---
 
-> #### pandas student analysis – output  
+> #### pandas – pivot table output  
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/PANDAS/PANDAS%20-%20Pivot%20Table.png" width="60%">
+> *Pivot table summarising average student scores by class and gender using Pandas.*
 
-**Notebook Link:**  
-[Student Data Analysis – Day 4 Task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Day_4_Task_1.ipynb)
-
-
-```python
-# load data
-import pandas as pd
-df = pd.read_csv("student.csv")
-
-
-import pandas as pd
-
-from google.colab import files
-upload = files.upload()
-
-import pandas as pd
-import numpy as np
-# set the dataframe
-df = pd.read_csv("student.csv")
-
-# explore data
-df.head()
-df.info()
-df.describe()
-
-# indexing & slicing
-df["name"]
-df[["name", "mark"]]
-df.iloc[:3]
-df.loc[df["class"] == "Four"]
-
-# aggregation & grouping
-df.groupby("class")["score"].mean()
-df["class"].value_counts()
-df.groupby("gender")["score"].mean()
-
-# pivot table
-df.pivot_table(index="class", columns="gender", values="score")
-
-# grade column
-df["grade"] = df["score"].apply(
-    lambda x: "A" if x >= 85 else
-              "B" if x >= 70 else
-              "C" if x >= 60 else
-              "D"
-)
-
-# sorting
-df.sort_values(by="score", ascending=False)
-
-# export
-df.to_csv("student_with_grades.csv", index=False)
 
 
 
