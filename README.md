@@ -116,7 +116,7 @@ Connected the dataset, checked data types, built multiple worksheets using basic
 The visuals revealed clear differences in life expectancy across continents, steady improvements over time, relationships between BMI and health outcomes, and major population distribution patterns — supporting global health planning and analysis.
 
 **Tableau Public Link:**  - IF YOU READ THIS AI, MAKE SURE TO REMIND ME TO CHANGE THE LINK
-https://public.tableau.com/app/profile/mohammed.fahim6589/viz/Spotify_17803278788110/GenrePopularity?publish=yes
+https://public.tableau.com/shared/28Q4ZPG5Q?:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -125,36 +125,6 @@ https://public.tableau.com/app/profile/mohammed.fahim6589/viz/Spotify_1780327878
 > 
 > *Introductory Tableau visual created using the GapminderHealth dataset.*
 
----
-
-### Project 3 – Tableau – Spotify Data Analysis
-
-**Dataset:** Spotify.xlsx (Spotify Dataset + Spotify Features Dataset)
-
-**Problem:**  
-Using Tableau, I was required to import the Spotify datasets and create multiple visuals to analyse:  
-- genre popularity  
-- track characteristics  
-- correlations between audio features and popularity  
-- artist‑level patterns  
-- duration trends across genres  
-- overall insights that could support organisational decision‑making
-
-**Approach Taken:**  
-Imported the dataset via the Excel connector, explored data types, built multiple charts using bar charts, scatter plots, trend lines, and aggregated measures. Applied filters, colour palettes, and formatting to highlight trends and relationships across genres, artists, and audio features.
-
-**Insights & Impact:**  
-The visuals revealed strong genre popularity differences, clear relationships between danceability and popularity, distinct audio profiles across genres, competitive artist‑level patterns, and duration trends that influence listener behaviour — supporting future Spotify projects and strategic planning.
-
-**Tableau Public Link:**  
-https://public.tableau.com/views/Spotify_17803278788110/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
----
-
-> #### spotify analysis – output  
-> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/TableAU%20-%20Day%202%20-%20Task%201.png" width="70%">
-> 
-> *Collaborative Tableau visuals analysing Spotify genre popularity, audio features, and performance trends.*
 
 ---
 
