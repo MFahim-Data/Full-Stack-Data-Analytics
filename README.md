@@ -252,9 +252,6 @@ This task demonstrated practical data‑analysis skills using Pandas: understand
 
 
 
-
-```
-
 ---
 ### Module 7 – Python & Pandas  
 
