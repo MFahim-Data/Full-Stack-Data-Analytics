@@ -287,18 +287,17 @@ These tasks demonstrate practical Python data‑analysis skills and the ability 
 
 ---
 > #### python visualisation – bar chart output  
-<img src="https://raw.githubusercontent.com/MFahim-Data-Analytics/main/Images/Python/Python%20-%20Barchart%20-%20Count.png" width="100%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Barchart%20-%201.png" width="100%">
 > *Countplot showing class size distribution across the dataset.*
 
-
+--- 
 > #### python visualisation – heatmap output  
-<img src="https://raw.githubusercontent.com/MFahim-Data-Analytics/main/Images/Python/Python%20-%20Heatmap.png" width="100%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Heatmap%20-%201.png" width="100%">
 > *Correlation heatmap highlighting relationships between student performance variables.*
 
-
+--- 
 > #### python visualisation – whiskers output  
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python/Python%20-%20Whiskers.png" width="100%">
-> *Box‑and‑whisker plot showing student score distribution and outliers.*
-
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Whiskers%20-%201.png" width="100%">
+> *Box‑and‑whisker plot showing score distribution and outliers.*
 
 ---
