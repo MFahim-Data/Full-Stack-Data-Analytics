@@ -212,7 +212,7 @@ Azure provides secure, compliant storage, automated data pipelines, advanced ana
 ---
 
 > #### azure cloud proposal – output  
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Azure/Azure%20-%20P%26W'S%20Schema.png" width="30%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Azure/Azure%20-%20P%26W'S%20Schema.png" width="60%">
 > *Azure-based relational schema diagram for the Paws & Whiskers project.*
 
 
