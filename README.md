@@ -223,53 +223,6 @@ Azure provides secure, compliant storage, automated data pipelines, advanced ana
 
 ## module 6 – pandas  
 ---
-### Module 6 – Python & Pandas  
-
-### Project 7 – Python – FizzBuzz Logic  
-*Note: Remember to link this section to the full Google Colab notebook when you have time.*
-
-**Task:**  
-Create the classic **FizzBuzz** program using Python.  
-Loop through numbers 1–100 and print:  
-- **"Fizz"** if divisible by 3  
-- **"Buzz"** if divisible by 5  
-- **"FizzBuzz"** if divisible by both  
-- otherwise print the number  
-
-**Approach Taken:**  
-Used a `for` loop, built a string dynamically based on divisibility, converted numbers to strings when needed, and printed the final output. This approach avoids nested `if/elif` chains and keeps the logic clean.
-
-**Insights & Impact:**  
-FizzBuzz demonstrates core Python fundamentals: loops, conditionals, modulo operations, and string building. It’s a common interview question and a simple way to show understanding of basic control flow.
-
----
-
-> #### fizzbuzz – output  
-
-**Notebook Link:**  
-[FizzBuzz Notebook (Google Colab → GitHub)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Fizz_Buzz_Cpde.ipynb)
-
-
-
-
-```python
-for num in range(1, 101):
-    string = ""
-    if num % 3 == 0:
-        string += "Fizz"
-    if num % 5 == 0:
-        string += "Buzz"
-    if num % 3 != 0 and num % 5 != 0:
-        string += str(num)
-    print(string)
-
-
-
-
-```
----
-### Module 7 – Python & Pandas  
-
 ### Project 8 – Pandas – Student Data Analysis  
 *Note: Remember to link this section to the full coding page with screenshots.*
 
