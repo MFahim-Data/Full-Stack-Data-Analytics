@@ -35,8 +35,7 @@ In this section, I showcase my data analytics projects — outlining the problem
 
 ### Project 1 – Excel – Student Performance Analysis
 
-**Dataset:** Student.csv  
-**Link:** [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
+**Excel Link:** [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
 
 **Problem:**  
 Using the imported **Student.csv** dataset, I analysed student performance by:  
@@ -71,7 +70,9 @@ The analysis revealed clear performance differences between classes and genders,
 
 ### Project 2 – Tableau – Introductory Data Visualisation & Analysis
 
-**Dataset:** GapminderHealth
+**Tableau Public Link:**  
+https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_link
+
 
 **Problem:**  
 Using Tableau, I was required to create a series of visualisations to explore global health trends, including:  
@@ -87,8 +88,7 @@ Connected the dataset, checked data types, built multiple worksheets using basic
 **Insights & Impact:**  
 The visuals revealed clear differences in life expectancy across continents, steady improvements over time, relationships between BMI and health outcomes, and major population distribution patterns — supporting global health planning and analysis.
 
-**Tableau Public Link:**  
-https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_link
+
 
 
 ---
@@ -102,16 +102,37 @@ https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_l
 
 
 
----
-### Module 3 – Power BI  
-*This section is currently being updated. A full project write‑up will be added soon.*
+Project 3 – Power BI – Sales Performance Dashboard
+ 
 
-Data cleaning & visual analysis — Removing confidential data, creating relationships, Q/A analysis, developing visuals.
+Power Bi Public Link: https://app.powerbi.com/links/PMd5n60xXh?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare
 
-### heading 5  
+Problem:  
+To build an interactive Power BI dashboard to analyse retail sales performance, identify trends, and provide dynamic insights across categories, regions, and time periods. The dashboard needed to support real‑time filtering, drill‑downs, and natural language Q&A exploration.
+
+Approach Taken:  
+Performed end‑to‑end BI development including:
+
+removing confidential data during Power Query cleaning
+
+creating relationships between fact and dimension tables
+
+building interactive visuals linked through slicers and cross‑filtering
+
+using Q&A analysis to generate insights through natural language queries
+
+implementing a decomposition tree for deep drill‑down analysis
+
+designing a clean, business‑ready dashboard layout
+
+Insights & Impact:  
+The dashboard revealed clear differences in category performance, highlighted regional sales trends, and enabled dynamic drill‑downs using the decomposition tree. Interactive visuals allow employers to click any chart and instantly see related changes across the entire dashboard — demonstrating strong BI interactivity and user‑focused design.
+
+sales performance dashboard – output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Power%20Bi/Power%20Bi%20-%20Sales%20-%20Dashboard.PNG" width="100%">
 
----
+Interactive dashboard showing KPIs, category trends, regional breakdowns, Q&A insights, and decomposition tree drill‑downs.
+
 ---
 ### Module 4 – SQL  
 
