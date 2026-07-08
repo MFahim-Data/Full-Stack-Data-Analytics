@@ -101,8 +101,8 @@ The visuals revealed clear differences in life expectancy across continents, ste
 ---
 
 
-
-Project 3 – Power BI – Sales Performance Dashboard
+### Module 3 – PowerBI 
+### Project 3 – Power BI – Sales Performance Dashboard
  
 
 Power Bi Public Link: https://app.powerbi.com/links/PMd5n60xXh?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare
