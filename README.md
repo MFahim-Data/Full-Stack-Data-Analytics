@@ -109,7 +109,7 @@ https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_l
 Data cleaning & visual analysis — Removing confidential data, creating relationships, Q/A analysis, developing visuals.
 
 ### heading 5  
-![power bi day 3 task 1](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Day%203%20-%20Task%201%20-%20Power%20Bi%20-%20Data%20Clearing%20and%20Visuals%20.png)
+<img src="https://raw.githubusercontent.com/MFahim-Data-Analytics/main/Images/Power%20Bi/Power%20Bi%20-%20Sales%20-%20Dashboard.PNG" width="100%">
 
 ---
 ---
