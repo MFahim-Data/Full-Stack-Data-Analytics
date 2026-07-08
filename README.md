@@ -59,13 +59,15 @@ The analysis revealed clear performance differences between classes and genders,
 ---
 
 > #### student sales data – output  
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20-%20Student%20Data%20Image.png" width="100%">
+<img src="https://raw.githubusercontent.com/MFahim-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%201.png" width="100%">
+
 
 > 
 > *Student dataset analysis including score categories, averages, and top‑performer identification.*
 
 > #### heading 2 – output  
-> <img src="https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Excel%20-%20Day%203%20Task%203.PNG" width="70%">
+<img src="https://raw.githubusercontent.com/MFahim-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%202.png" width="100%">
+
 > 
 > *Additional view of the student performance calculations and summary table.*
 
