@@ -250,6 +250,17 @@ This task demonstrated practical data‑analysis skills using Pandas: understand
 import pandas as pd
 df = pd.read_csv("student.csv")
 
+
+import pandas as pd
+
+from google.colab import files
+upload = files.upload()
+
+import pandas as pd
+import numpy as np
+# set the dataframe
+df = pd.read_csv("student.csv")
+
 # explore data
 df.head()
 df.info()
@@ -260,11 +271,6 @@ df["name"]
 df[["name", "mark"]]
 df.iloc[:3]
 df.loc[df["class"] == "Four"]
-
-# data manipulation
-df["passed"] = df["mark"] >= 60
-df = df.rename(columns={"mark": "score"})
-df = df.drop(columns=["passed"])
 
 # aggregation & grouping
 df.groupby("class")["score"].mean()
