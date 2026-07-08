@@ -28,25 +28,22 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 ### Portfolio Projects  
 In this section, I showcase my data analytics projects — outlining the problem, the data used, the approach taken, and the insights or business impact delivered.
 
-
 ---
-### Module 1 - Excel  
+### Module 1 – Excel  
 
 ---
 
 ### Project 1 – Excel – Student Performance Analysis
 
-**Dataset:** Student.csv
-
-Link: [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
-
+**Dataset:** Student.csv  
+**Link:** [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
 
 **Problem:**  
-Using the imported **Student.csv** dataset, I was required to explore and analyse student performance by:  
+Using the imported **Student.csv** dataset, I analysed student performance by:  
 - creating a **Score Category** column using `IFS()`  
-- counting how many students fall into each category using `COUNTIF()`  
+- counting students in each category using `COUNTIF()`  
 - calculating **average performance by gender** using `AVERAGEIF()`  
-- calculating **average class scores** using `AVERAGEIF()` across multiple classes  
+- calculating **average class scores** using `AVERAGEIF()`  
 - identifying the **best student in each class** using `MAX()` and `INDEX/MATCH`  
 - producing an overall summary table of results
 
@@ -58,22 +55,17 @@ The analysis revealed clear performance differences between classes and genders,
 
 ---
 
-> #### student sales data – output  
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%201.png" width="100%">
-
-
-
-> 
+> #### student performance data – output  
+> <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%201.png" width="100%">
 > *Student dataset analysis including score categories, averages, and top‑performer identification.*
 
-> #### heading 2 – output  
-<img src="https://raw.githubusercontent.com/MFahim-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%202.png" width="100%">
-
-> 
-> *Additional view of the student performance calculations and summary table.*
-
-
 ---
+
+> #### additional summary view – output  
+> <img src="https://raw.githubusercontent.com/MFahim-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%202.png" width="100%">
+> *Additional view of the student performance calculations and summary tables.*
+
+
 ---
 ### Module 2 – Tableau  
 
