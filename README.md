@@ -132,8 +132,19 @@ The dashboard revealed clear differences in category performance, highlighted re
 ---
 ### Module 4 – SQL  
 
+
 ### Project 4 – SQL – Retail Database Design & Implementation  
-*Note: Remember to link this section to the full 400–500 word essay when you have time.*
+
+---
+
+> **FULL SQL ESSAY REPORT:**  
+> [View SQL – Essay (PDF) →](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Essay.pdf)
+
+---
+> **FULL SQL BRIEF REPORT:**  
+> [View SQL – Brief (PDF) →](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Brief.pdf)
+---
+
 
 **Dataset / Scenario:**  
 A small corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points. The goal is to streamline operations and support staff and managers with accurate, structured data.
