@@ -170,7 +170,6 @@ The database structure supports efficient stock management, accurate sales track
 
 > #### CUSTOMER ERD (VERSION 2) – OUTPUT  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD%202.png" width="30%">
-> *Entity–relationship diagram showing customer, orders, and relational structure.*
 
 
 ---
