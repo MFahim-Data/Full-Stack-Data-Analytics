@@ -127,20 +127,32 @@ See the image below for a visual breakdown of these insights.
 
 ### Project 3 – Power BI – Sales Performance Dashboard
 
-**Problem:**  
-To build an interactive Power BI dashboard to analyse retail sales performance, identify trends, and provide dynamic insights across categories, regions, and time periods.
 
-**Approach Taken:**  
+*PROBLEM:*  
+To build an interactive Power BI dashboard to analyse retail sales performance, identify trends, and provide dynamic insights across categories, regions, and time periods. The dashboard needed to support real‑time filtering, drill‑downs, and natural language Q&A exploration.
+
+*APPROACH TAKEN:*  
 Performed end‑to‑end BI development including:  
-- Power Query cleaning  
-- Creating relationships  
-- Interactive visuals  
-- Q&A insights  
-- Decomposition tree  
-- Business‑ready layout
+- Removing confidential data during Power Query cleaning  
+- Creating relationships between fact and dimension tables  
+- Building interactive visuals linked through slicers and cross‑filtering  
+- Using Q&A analysis to generate insights through natural language queries  
+- Implementing a decomposition tree for deep drill‑down analysis  
+- Designing a clean, business‑ready dashboard layout  
 
-**Insights & Impact:**  
-The dashboard revealed category performance differences, regional trends, and dynamic drill‑downs.
+**Insights:**  
+The analysis shows clear differences in sales performance across segments — Consumer sales consistently lead, highlighting a strong opportunity for targeted marketing and product focus. Customer segments are evenly distributed, meaning businesses can specialise their sales strategy based on the segment that best aligns with their goals.
+
+The dashboard also reveals clear regional and category trends, and the decomposition tree makes it easy to drill from region → segment → country to understand where performance strengths or weaknesses originate. The Q&A feature further enhances exploration by allowing natural‑language questions, helping users quickly uncover insights without manual filtering.
+
+**Impact:**  
+- Focus sales efforts on high‑performing segments such as Consumer  
+- Tailor sales strategies to the customer segment that best fits business needs  
+- Use decomposition tree drill‑downs to identify root causes of strong or weak performance  
+- Leverage Q&A analysis to speed up insight discovery and support data‑driven decisions  
+- Improve strategic planning by understanding regional and category‑level trends  
+
+See the image below for a visual breakdown of these insights.
 
 ---
 
@@ -151,26 +163,45 @@ The dashboard revealed category performance differences, regional trends, and dy
 
 ---
 
-### Links  
+### Links
 - [Power BI Dashboard](https://app.powerbi.com/links/PMd5n60xXh?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
-<br>
+*Click the link to view my Power BI dashboard and explore the interactive visuals.*
+
 
 ---
 
 ### Project 4 – SQL – Retail Database Design & Implementation
 
-**Dataset / Scenario:**  
-A small corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points.
 
-**Problem:**  
-I designed and built a relational database that stores supplier, inventory, sales, customer, and loyalty programme data.
+*Dataset / Scenario:*  
+A small corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points. The goal is to streamline operations and support staff and managers with accurate, structured data.
 
-**Approach Taken:**  
-Designed schema, created tables, inserted data, and defined foreign keys.
+*Problem:*  
+I was required to design and build a relational database that:  
+- stores supplier, inventory, sales, customer, and loyalty programme data  
+- defines clear primary and foreign key relationships  
+- supports daily operations such as stock checks, sales recording, and loyalty tracking  
+- includes SQL examples for creating tables, inserting data, and maintaining accuracy
 
-**Insights & Impact:**  
-Supports efficient stock management, accurate sales tracking, and customer loyalty monitoring.
+*Approach Taken:*  
+I analysed the business requirements, identified the essential tables, designed a relational schema, and implemented it using SQL CREATE TABLE, INSERT, and FOREIGN KEY statements. I ensured each table connected logically to support real‑world shop operations.
+
+**Insights:**  
+- The database structure streamlines daily operations by clearly organising suppliers, inventory, customers, sales, and loyalty data.  
+- Relational links allow products to be traced from supplier → inventory → sale → customer → loyalty points, giving staff and managers full visibility across the system.  
+- The schema is simple and easy for non‑technical users to understand, helping staff confidently check stock, record sales, and update loyalty points.  
+- Maintenance practices such as stock validation, updating customer details, monitoring loyalty points, and weekly backups ensure long‑term accuracy and reliability.
+
+**Impact:**  
+- Staff can efficiently manage stock levels, sales transactions, and loyalty updates.  
+- Managers gain clearer insight into sales trends, supplier performance, and restocking needs.  
+- Foreign key relationships reduce errors and keep data consistent across all tables.  
+- Regular maintenance and controlled access improve security and prevent data loss.  
+- The shop benefits from a reliable, structured system that supports smooth daily operations.
+
+See the image below for a visual breakdown of these insights.
+
 
 ---
 
@@ -184,9 +215,13 @@ Supports efficient stock management, accurate sales tracking, and customer loyal
 
 ---
 
-### Links  
+### Links
 - [SQL Essay Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Essay.pdf)  
-- [SQL Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Brief.pdf)
+  *This is the full SQL report containing my complete database design, table creation, relationships, and detailed explanations of how I built and implemented the retail database.*
+
+- [SQL Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Brief.pdf)  
+  *This brief report outlines the core requirements of the project and summarises the key deliverables for the retail database task.*
+
 
 ---
 
