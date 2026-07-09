@@ -7,13 +7,6 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 
 ---
 
-### Socials  
-- [LinkedIn](https://www.linkedin.com/in/mohammed-fahim-data/)  
-- [GitHub](https://github.com/MFahim-Data)  
-- Email: mohammedfahim4@outlook.com
-
----
-
 ### Core Skills  
 - **Excel** — tables, filters, formulas, structured data modelling  
 - **Tableau** — charts, dashboards, collaborative visual storytelling  
@@ -298,3 +291,10 @@ These tasks demonstrate practical Python data‑analysis skills and the ability 
 > *Box‑and‑whisker plot showing score distribution and outliers.*
 
 ---
+
+
+### Socials  
+- Email: [mohammedfahim4@outlook.com](https://outlook.live.com/mail/0/deeplink/compose?to=mohammedfahim4@outlook.com)  
+- [GitHub](https://github.com/MFahim-Data)  
+- [LinkedIn](https://www.linkedin.com/in/mohammed-fahim-data/)
+
