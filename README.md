@@ -140,17 +140,20 @@ Performed end‑to‑end BI development including:
 - Implementing a decomposition tree for deep drill‑down analysis  
 - Designing a clean, business‑ready dashboard layout  
 
-**Insights:**  
-The analysis shows clear differences in sales performance across segments — Consumer sales consistently lead, highlighting a strong opportunity for targeted marketing and product focus. Customer segments are evenly distributed, meaning businesses can specialise their sales strategy based on the segment that best aligns with their goals.
 
-The dashboard also reveals clear regional and category trends, and the decomposition tree makes it easy to drill from region → segment → country to understand where performance strengths or weaknesses originate. The Q&A feature further enhances exploration by allowing natural‑language questions, helping users quickly uncover insights without manual filtering.
+**Insights:**  
+- Consumer sales are the strongest overall, showing a clear opportunity for targeted marketing and product focus.  
+- Customer segments are evenly distributed, meaning businesses can specialise their strategy depending on which segment aligns best with their goals.  
+- Regional and category trends highlight where sales performance is strongest or weakest across the business.  
+- The decomposition tree reveals how performance breaks down from region → segment → country, helping pinpoint the exact source of trends.  
+- The Q&A feature enables fast, natural‑language exploration, allowing users to uncover insights without manually adjusting filters.
 
 **Impact:**  
-- Focus sales efforts on high‑performing segments such as Consumer  
-- Tailor sales strategies to the customer segment that best fits business needs  
-- Use decomposition tree drill‑downs to identify root causes of strong or weak performance  
-- Leverage Q&A analysis to speed up insight discovery and support data‑driven decisions  
-- Improve strategic planning by understanding regional and category‑level trends  
+- Prioritise high‑performing segments such as Consumer to maximise revenue.  
+- Align sales strategies with the customer segment that best fits business objectives.  
+- Use regional and category trends to guide strategic planning and resource allocation.  
+- Apply decomposition tree drill‑downs to identify root causes of strong or weak performance.  
+- Speed up insight discovery and decision‑making through Q&A‑driven analysis.
 
 See the image below for a visual breakdown of these insights.
 
