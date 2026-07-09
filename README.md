@@ -1,14 +1,12 @@
 # Mohammed Fahim  
 ### Data Technician Trainee
 
-<br>
 ---
 
 Hi, I am a Data Technician Trainee building practical projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
 
 This GitHub Pages site showcases all my course modules, including real code, visualisations, cloud work, and analysis tasks completed throughout the programme.
 
-<br>
 ---
 
 ### Core Skills  
@@ -20,7 +18,6 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 - **Pandas** — data cleaning, filtering, grouping, Colab notebooks  
 - **Python** — scripting, loops, and basic data visualisation
 
-<br>
 ---
 
 ### Portfolio Projects  
@@ -73,9 +70,6 @@ See the image below for a visual breakdown of these insights.
 ### Links  
 - [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
 
-
-<br>
-
 ---
 
 ### Project 2 – Tableau – Introductory Data Visualisation & Analysis
@@ -105,10 +99,6 @@ The visuals revealed clear differences in life expectancy across continents, ste
 
 ### Links  
 - [Tableau Public Dashboard](https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_link)
-
-
-
-<br>
 
 ---
 
@@ -140,9 +130,6 @@ The dashboard revealed category performance differences, regional trends, and dy
 
 ### Links  
 - [Power BI Dashboard](https://app.powerbi.com/links/PMd5n60xXh?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
-
-
-<br>
 
 ---
 
@@ -176,10 +163,6 @@ Supports efficient stock management, accurate sales tracking, and customer loyal
 - [SQL Essay Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Essay.pdf)  
 - [SQL Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Brief.pdf)
 
-
-
-<br>
-
 ---
 
 ### Project 6 – Azure – Cloud Migration & Data Strategy for Paws & Whiskers
@@ -209,10 +192,6 @@ Azure enables secure storage, automation, analytics, and scalable infrastructure
 - [Azure Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Brief.pdf)  
 - [Azure Full Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Report.pdf)
 
-
-
-<br>
-
 ---
 
 ### Project 8 – Pandas – Student Data Analysis
@@ -239,10 +218,6 @@ Demonstrated practical data‑analysis skills using Pandas.
 
 ### Links  
 - [Pandas Pivot Table Notebook](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PANDAS_Pivot_Table.ipynb)
-
-
-
-<br>
 
 ---
 
@@ -285,7 +260,6 @@ GDP dataset showed missing values; student visuals revealed performance patterns
 ### Links  
 - [Student Data Analysis Notebook](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Task_2_Cleaning_and_Visualising_data.ipynb)
 
-<br>
 ---
 
 ### Socials  
