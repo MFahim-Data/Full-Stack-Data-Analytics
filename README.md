@@ -1,13 +1,11 @@
 # Mohammed Fahim  
 ### Data Technician Trainee
-
+---
 Hi, I am a Data Technician Trainee building practical projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
 
 This GitHub Pages site showcases all my course modules, including real code, visualisations, cloud work, and analysis tasks completed throughout the programme.
 
-
 ---
-
 ### Core Skills  
 - **Excel** — tables, filters, formulas, structured data modelling  
 - **Tableau** — charts, dashboards, collaborative visual storytelling  
@@ -17,16 +15,13 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 - **Pandas** — data cleaning, filtering, grouping, Colab notebooks  
 - **Python** — scripting, loops, and basic data visualisation
 
+<br><br>
 
 ---
-
 ### Portfolio Projects  
 In this section, I showcase my data analytics projects — outlining the problem, the data used, the approach taken, and the insights or business impact delivered.
 
 
----
-
-### Module 1 – Excel  
 
 
 ---
@@ -69,9 +64,6 @@ The analysis revealed clear performance differences between classes and genders,
 > *Additional view of the student performance calculations and summary tables.*
 
 
----
-
-### Module 2 – Tableau  
 
 
 ---
@@ -106,10 +98,6 @@ The visuals revealed clear differences in life expectancy across continents, ste
 > *Introductory Tableau visual created using the GapminderHealth dataset.*
 
 
----
-
-### Module 3 – Power BI  
-
 
 ---
 
@@ -143,12 +131,6 @@ The dashboard revealed clear differences in category performance, highlighted re
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Power%20Bi/Power%20Bi%20-%20Sales%20-%20Dashboard.PNG" width="100%">
 
 *Interactive dashboard showing KPIs, category trends, regional breakdowns, Q&A insights, and decomposition tree drill‑downs.*
-
-
----
-
-### Module 4 – SQL  
-
 
 ---
 
@@ -199,9 +181,7 @@ The database structure supports efficient stock management, accurate sales track
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD%202.png" width="30%">
 
 
----
 
-### Module 5 – Azure  
 
 
 ---
@@ -252,10 +232,6 @@ Azure provides secure, compliant storage, automated data pipelines, advanced ana
 > *Azure-based relational schema diagram for the Paws & Whiskers project.*
 
 
----
-
-### Module 6 – Pandas  
-
 
 ---
 
@@ -289,9 +265,6 @@ This task demonstrated practical data‑analysis skills using Pandas: understand
 > *Pivot table summarising average student scores by class and gender using Pandas.*
 
 
----
-
-### Module 7 – Python & Pandas  
 
 
 ---
