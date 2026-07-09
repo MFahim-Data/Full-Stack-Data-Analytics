@@ -8,6 +8,7 @@ Hi, I am a Data Technician Trainee building practical projects using Excel, Tabl
 This GitHub Pages site showcases all my course modules, including real code, visualisations, cloud work, and analysis tasks completed throughout the programme.
 
 <br>
+
 ---
 
 ### Core Skills  
