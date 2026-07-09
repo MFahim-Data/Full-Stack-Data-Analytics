@@ -39,7 +39,7 @@ In this section, I showcase my data analytics projects — outlining the problem
 <br>
 
 **Problem:**  
-Using the imported **Student.csv** dataset, I analysed student performance by:  
+Using the imported **student.csv** dataset, I analysed student performance by:  
 - creating a **Score Category** column using `IFS()`  
 - counting students in each category using `COUNTIF()`  
 - calculating **average performance by gender** using `AVERAGEIF()`  
@@ -61,17 +61,17 @@ The analysis revealed clear performance differences between classes and genders,
 
 ---
 
-> #### student performance data – output  
+#### Student Performance Data – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%201.png" width="100%">
-> *Student dataset analysis including score categories, averages, and top‑performer identification.*
+*Student dataset analysis including score categories, averages, and top‑performer identification.*
 
 <br><br>
 
 ---
 
-> #### additional summary view – output  
+#### Additional Summary View – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%202.png" width="100%">
-> *Additional view of the student performance calculations and summary tables.*
+*Additional view of the student performance calculations and summary tables.*
 
 <br><br>
 
@@ -85,7 +85,7 @@ https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_l
 <br>
 
 **Problem:**  
-Using Tableau, I was required to create a series of visualisations to explore global health trends, including:  
+Using Tableau, I created a series of visualisations to explore global health trends, including:  
 - life expectancy by continent  
 - life expectancy trends over time  
 - population distribution by gender  
@@ -106,9 +106,9 @@ The visuals revealed clear differences in life expectancy across continents, ste
 
 ---
 
-> #### tableau visual – output  
+#### Tableau Visual – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Global%20Health%20Insights%20Dashboard.png" width="100%">
-> *Introductory Tableau visual created using the GapminderHealth dataset.*
+*Introductory Tableau visual created using the GapminderHealth dataset.*
 
 <br><br>
 
@@ -122,58 +122,57 @@ https://app.powerbi.com/links/PMd5n60xXh?ctid=3ea7c128-c601-4479-a003-e14d00c0b5
 <br>
 
 **Problem:**  
-To build an interactive Power BI dashboard to analyse retail sales performance, identify trends, and provide dynamic insights across categories, regions, and time periods. The dashboard needed to support real‑time filtering, drill‑downs, and natural language Q&A exploration.
+To build an interactive Power BI dashboard to analyse retail sales performance, identify trends, and provide dynamic insights across categories, regions, and time periods.
 
 <br>
 
 **Approach Taken:**  
 Performed end‑to‑end BI development including:  
-- Removing confidential data during Power Query cleaning  
-- Creating relationships between fact and dimension tables  
-- Building interactive visuals linked through slicers and cross‑filtering  
-- Using Q&A analysis to generate insights through natural language queries  
-- Implementing a decomposition tree for deep drill‑down analysis  
-- Designing a clean, business‑ready dashboard layout  
+- removing confidential data during Power Query cleaning  
+- creating relationships between fact and dimension tables  
+- building interactive visuals linked through slicers and cross‑filtering  
+- using Q&A analysis to generate insights through natural language queries  
+- implementing a decomposition tree for deep drill‑down analysis  
+- designing a clean, business‑ready dashboard layout  
 
 <br>
 
 **Insights & Impact:**  
-The dashboard revealed clear differences in category performance, highlighted regional sales trends, and enabled dynamic drill‑downs using the decomposition tree. Interactive visuals allow employers to click any chart and instantly see related changes across the entire dashboard — demonstrating strong BI interactivity and user‑focused design.
+The dashboard revealed clear differences in category performance, highlighted regional sales trends, and enabled dynamic drill‑downs using the decomposition tree. Interactive visuals allow employers to click any chart and instantly see related changes across the entire dashboard.
 
 <br><br>
 
 ---
 
-#### SALES PERFORMANCE DASHBOARD – OUTPUT  
+#### Sales Performance Dashboard – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Power%20Bi/Power%20Bi%20-%20Sales%20-%20Dashboard.PNG" width="100%">
-
 *Interactive dashboard showing KPIs, category trends, regional breakdowns, Q&A insights, and decomposition tree drill‑downs.*
 
 <br><br>
 
 ---
 
-### Project 4 – SQL – Retail Database Design & Implementation  
+### Project 4 – SQL – Retail Database Design & Implementation
 
 <br>
 
-> **FULL SQL ESSAY REPORT:**  
-> [View SQL – Essay (PDF) →](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Essay.pdf)
+**Full SQL Essay Report:**  
+[View SQL – Essay (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Essay.pdf)
 
 <br>
 
-> **FULL SQL BRIEF REPORT:**  
-> [View SQL – Brief (PDF) →](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Brief.pdf)
+**Full SQL Brief Report:**  
+[View SQL – Brief (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Brief.pdf)
 
 <br>
 
 **Dataset / Scenario:**  
-A small corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points. The goal is to streamline operations and support staff and managers with accurate, structured data.
+A small corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points.
 
 <br>
 
 **Problem:**  
-I was required to design and build a relational database that:  
+I designed and built a relational database that:  
 - stores supplier, inventory, sales, customer, and loyalty programme data  
 - defines clear primary and foreign key relationships  
 - supports daily operations such as stock checks, sales recording, and loyalty tracking  
@@ -182,50 +181,50 @@ I was required to design and build a relational database that:
 <br>
 
 **Approach Taken:**  
-I analysed the business requirements, identified the essential tables, designed a relational schema, and implemented it using SQL `CREATE TABLE`, `INSERT`, and `FOREIGN KEY` statements. I ensured each table connected logically to support real‑world shop operations.
+Analysed business requirements, identified essential tables, designed a relational schema, and implemented it using SQL `CREATE TABLE`, `INSERT`, and `FOREIGN KEY` statements.
 
 <br>
 
 **Insights & Impact:**  
-The database structure supports efficient stock management, accurate sales tracking, customer loyalty monitoring, and secure data handling. Clear relationships between tables make it easy for staff and managers to understand and use the system, improving reliability and operational flow.
+The database structure supports efficient stock management, accurate sales tracking, customer loyalty monitoring, and secure data handling.
 
 <br><br>
 
 ---
 
-> #### CUSTOMER ERD – OUTPUT  
+#### Customer ERD – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD.png" width="30%">
 
 <br>
 
-> #### CUSTOMER ERD (VERSION 2) – OUTPUT  
+#### Customer ERD (Version 2) – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD%202.png" width="30%">
 
 <br><br>
 
 ---
 
-### Project 6 – Azure – Cloud Migration & Data Strategy for Paws & Whiskers  
+### Project 6 – Azure – Cloud Migration & Data Strategy for Paws & Whiskers
 
 <br>
 
-> **FULL AZURE BRIEF REPORT:**  
-> [View Azure – Brief (PDF) →](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Brief.pdf)
+**Full Azure Brief Report:**  
+[View Azure – Brief (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Brief.pdf)
 
 <br>
 
-> **FULL AZURE REPORT:**  
-> [View Azure – Full Report (PDF) →](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Report.pdf)
+**Full Azure Report:**  
+[View Azure – Full Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Report.pdf)
 
 <br>
 
 **Scenario:**  
-Paws & Whiskers is a growing pet shop transitioning from spreadsheets to Microsoft Azure to improve data storage, security, automation, and analytics. The goal is to modernise operations and support data‑driven decision‑making.
+Paws & Whiskers is transitioning from spreadsheets to Microsoft Azure to improve data storage, security, automation, and analytics.
 
 <br>
 
 **Problem:**  
-I was required to analyse the business needs and produce a structured Azure proposal covering:  
+I analysed business needs and produced a structured Azure proposal covering:  
 - GDPR & DPA compliance  
 - recommended Azure services  
 - data types and modelling  
@@ -236,26 +235,26 @@ I was required to analyse the business needs and produce a structured Azure prop
 <br>
 
 **Approach Taken:**  
-Reviewed UK/EU data laws, mapped business requirements, selected appropriate Azure services (SQL Database, Synapse, Machine Learning, Data Factory), designed a relational data model, recommended secure storage formats, and outlined backup, visualisation, and scalability strategies.
+Reviewed UK/EU data laws, mapped business requirements, selected Azure services (SQL Database, Synapse, Machine Learning, Data Factory), designed a relational data model, recommended secure storage formats, and outlined backup and scalability strategies.
 
 <br>
 
 **Insights & Impact:**  
-Azure provides secure, compliant storage, automated data pipelines, advanced analytics, and scalable infrastructure. This enables Paws & Whiskers to replace spreadsheets with reliable cloud systems, improve reporting, forecast demand, protect customer data, and support long‑term business growth.
+Azure provides secure, compliant storage, automated data pipelines, advanced analytics, and scalable infrastructure — enabling Paws & Whiskers to modernise operations.
 
 <br><br>
 
 ---
 
-> #### azure cloud proposal – output  
+#### Azure Cloud Proposal – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Azure/Azure%20-%20P%26W'S%20Schema.png" width="60%">
-> *Azure-based relational schema diagram for the Paws & Whiskers project.*
+*Azure-based relational schema diagram for the Paws & Whiskers project.*
 
 <br><br>
 
 ---
 
-### Project 8 – Pandas – Student Data Analysis  
+### Project 8 – Pandas – Student Data Analysis
 
 **Notebook Link:**  
 [Pandas Pivot Table – Student Analysis](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PANDAS_Pivot_Table.ipynb)
@@ -267,86 +266,78 @@ Azure provides secure, compliant storage, automated data pipelines, advanced ana
 <br>
 
 **Problem:**  
-Using Pandas, I was required to load, explore, slice, manipulate, aggregate, and export the **student.csv** dataset. This included reading data, selecting columns, filtering rows, creating new columns, grouping values, building pivot tables, sorting results, and exporting updated DataFrames.
+Using Pandas, I loaded, explored, sliced, manipulated, aggregated, and exported the **student.csv** dataset.
 
 <br>
 
 **Approach Taken:**  
-Imported Pandas, loaded the CSV into a DataFrame, explored structure and statistics, performed indexing and slicing, created new calculated columns, grouped and aggregated values, built pivot tables, sorted results, and exported the final dataset. Each step used core Pandas functions such as `read_csv`, `head`, `info`, `describe`, `loc`, `iloc`, `groupby`, `pivot_table`, and `to_csv`.
+Performed indexing, slicing, created new calculated columns, grouped values, built pivot tables, sorted results, and exported the final dataset using core Pandas functions.
 
 <br>
 
 **Insights & Impact:**  
-This task demonstrated practical data‑analysis skills using Pandas: understanding DataFrame structure, filtering data efficiently, creating new features, summarising groups, and preparing data for further analysis or visualisation. These operations form the foundation of real‑world Python data workflows.
+This task demonstrated practical data‑analysis skills using Pandas — understanding DataFrame structure, filtering data efficiently, creating new features, summarising groups, and preparing data for further analysis.
 
 <br><br>
 
 ---
 
-> #### pandas – pivot table output  
+#### Pandas Pivot Table – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/PANDAS/PANDAS%20-%20Pivot%20Table.png" width="60%">
-> *Pivot table summarising average student scores by class and gender using Pandas.*
+*Pivot table summarising average student scores by class and gender.*
 
 <br><br>
 
 ---
 
-### Project 9 – Python – GDP & Student Visualisation Tasks  
+### Project 9 – Python – GDP & Student Visualisation Tasks
 
 **Notebook Link:**  
 [Student Data Analysis – Task 2 (Cleaning & Visualising Data)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Task_2_Cleaning_and_Visualising_data.ipynb)
 
 <br>
 
-**Dataset:** GDP (nominal) per Capita.csv & student.csv
+**Dataset:** GDP (Nominal) Per Capita.csv & student.csv
 
 <br>
 
 **Problem:**  
-Using Pandas, Matplotlib, and Seaborn, I was required to:  
-- load and explore the GDP dataset  
-- print specific rows and columns  
-- upload and analyse the student dataset  
-- create multiple visualisations (histogram, scatter, boxplot, countplot, barplot)  
-- interpret each chart with clear insights
+Using Pandas, Matplotlib, and Seaborn, I created multiple visualisations to explore GDP data and student performance.
 
 <br>
 
 **Approach Taken:**  
-Loaded the GDP dataset using `read_csv`, inspected the first and last rows, and selected specific columns.  
-Installed and imported Matplotlib/Seaborn, uploaded the student dataset, and created visualisations showing mark distribution, gender differences, class performance, class sizes, and average marks.  
-Used functions such as `head`, `tail`, `df[...]`, `plt.figure`, `plt.hist`, `sns.boxplot`, `sns.countplot`, and `sns.barplot`.
+Loaded datasets, inspected rows and columns, created histograms, scatter plots, boxplots, countplots, and barplots using Matplotlib and Seaborn.
 
 <br>
 
 **Insights & Impact:**  
-The GDP dataset showed missing values in IMF estimates for a few countries.  
-Student visualisations revealed clear mark ranges, gender differences, class performance gaps, outliers, and class size imbalances.  
-These tasks demonstrate practical Python data‑analysis skills and the ability to interpret visual insights.
+The GDP dataset showed missing values in IMF estimates.  
+Student visualisations revealed mark ranges, gender differences, class performance gaps, outliers, and class size imbalances.
 
 <br><br>
 
 ---
 
-> #### python visualisation – bar chart output  
+#### Python Visualisation – Bar Chart  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Barchart%20-%201.png" width="100%">
-> *Countplot showing class size distribution across the dataset.*
+*Countplot showing class size distribution.*
 
 <br><br>
 
 ---
 
-> #### python visualisation – heatmap output  
+#### Python Visualisation – Heatmap  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Heatmap%20-%201.png" width="100%">
-> *Correlation heatmap highlighting relationships between student performance variables.*
+*Correlation heatmap highlighting relationships between student performance variables.*
 
 <br><br>
 
 ---
 
-> #### python visualisation – whiskers output  
+#### Python Visualisation – Box & Whisker Plot  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Whiskers%20-%201.png" width="100%">
-> *Box‑and‑whisker plot showing score distribution and outliers.*
+*Box‑and‑whisker plot showing score distribution and outliers.*
 
 <br><br>
 
