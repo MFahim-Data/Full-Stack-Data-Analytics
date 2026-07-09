@@ -65,11 +65,13 @@ See the image below for a visual breakdown of these insights.
 <br>
 *Additional view of the student performance calculations and summary tables.*
 
----
+<br>
 
 ### Links  
 - [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
 
+
+<br>
 ---
 
 ### Project 2 – Tableau – Introductory Data Visualisation & Analysis
@@ -85,8 +87,24 @@ Using Tableau, I created a series of visualisations to explore global health tre
 **Approach Taken:**  
 Connected the dataset, checked data types, built multiple worksheets using basic Tableau features, and combined them into a dashboard titled **Global Health Insights**.
 
-**Insights & Impact:**  
-The visuals revealed clear differences in life expectancy across continents, steady improvements over time, relationships between BMI and health outcomes, and major population distribution patterns.
+
+**Insights:**  
+- Life expectancy differs strongly across continents — Europe and Oceania score highest, while Africa scores lowest, reflecting differences in healthcare access and living conditions.  
+- Life expectancy has steadily increased over time, suggesting improvements in medicine, vaccination, sanitation, and public health.  
+- Countries with healthier BMI levels tend to have higher life expectancy, highlighting the importance of lifestyle and obesity prevention.  
+- Population distribution varies widely — countries like India and Indonesia have extremely large populations, shaping healthcare demand and long‑term planning.  
+- Gender distribution is generally balanced across most countries, supporting planning for gender‑specific healthcare services.
+
+
+**Impact:**  
+- Plan future healthcare demand for an ageing population  
+- Target public health campaigns to improve lifestyle and BMI outcomes  
+- Benchmark UK performance against higher‑performing regions  
+- Allocate resources based on population density and growth  
+- Forecast pressures on GP services, emergency care, and chronic disease management  
+
+See the image below for a visual breakdown of these insights.
+
 
 ---
 
@@ -95,11 +113,14 @@ The visuals revealed clear differences in life expectancy across continents, ste
 <br>
 *Introductory Tableau visual created using the GapminderHealth dataset.*
 
----
+<br>
 
-### Links  
+### Links
 - [Tableau Public Dashboard](https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_link)
 
+---
+
+<br>
 ---
 
 ### Project 3 – Power BI – Sales Performance Dashboard
@@ -130,6 +151,8 @@ The dashboard revealed category performance differences, regional trends, and dy
 
 ### Links  
 - [Power BI Dashboard](https://app.powerbi.com/links/PMd5n60xXh?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
+
+<br>
 
 ---
 
