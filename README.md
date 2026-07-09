@@ -118,6 +118,8 @@ See the image below for a visual breakdown of these insights.
 ### Links
 - [Tableau Public Dashboard](https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_link)
 
+*Click the link to view my TableAU public dashboard to view and edit*
+
 ---
 
 <br>
