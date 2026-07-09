@@ -33,11 +33,6 @@ In this section, I showcase my data analytics projects — outlining the problem
 
 ### Project 1 – Excel – Student Performance Analysis
 
-**Excel Link:**  
-[Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
-
-<br>
-
 **Problem:**  
 Using the imported **student.csv** dataset, I analysed student performance by:  
 - creating a **Score Category** column using `IFS()`  
@@ -77,12 +72,14 @@ The analysis revealed clear performance differences between classes and genders,
 
 ---
 
+### Links  
+- [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
+
+<br><br>
+
+---
+
 ### Project 2 – Tableau – Introductory Data Visualisation & Analysis
-
-**Tableau Public Link:**  
-https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_link
-
-<br>
 
 **Problem:**  
 Using Tableau, I created a series of visualisations to explore global health trends, including:  
@@ -95,12 +92,12 @@ Using Tableau, I created a series of visualisations to explore global health tre
 <br>
 
 **Approach Taken:**  
-Connected the dataset, checked data types, built multiple worksheets using basic Tableau features (filters, colours, axis formatting, aggregation changes), and combined them into a dashboard titled **Global Health Insights**.
+Connected the dataset, checked data types, built multiple worksheets using basic Tableau features, and combined them into a dashboard titled **Global Health Insights**.
 
 <br>
 
 **Insights & Impact:**  
-The visuals revealed clear differences in life expectancy across continents, steady improvements over time, relationships between BMI and health outcomes, and major population distribution patterns — supporting global health planning and analysis.
+The visuals revealed clear differences in life expectancy across continents, steady improvements over time, relationships between BMI and health outcomes, and major population distribution patterns.
 
 <br><br>
 
@@ -114,12 +111,14 @@ The visuals revealed clear differences in life expectancy across continents, ste
 
 ---
 
+### Links  
+- [Tableau Public Dashboard](https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_link)
+
+<br><br>
+
+---
+
 ### Project 3 – Power BI – Sales Performance Dashboard
-
-**Power BI Public Link:**  
-https://app.powerbi.com/links/PMd5n60xXh?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare
-
-<br>
 
 **Problem:**  
 To build an interactive Power BI dashboard to analyse retail sales performance, identify trends, and provide dynamic insights across categories, regions, and time periods.
@@ -128,17 +127,17 @@ To build an interactive Power BI dashboard to analyse retail sales performance, 
 
 **Approach Taken:**  
 Performed end‑to‑end BI development including:  
-- removing confidential data during Power Query cleaning  
-- creating relationships between fact and dimension tables  
-- building interactive visuals linked through slicers and cross‑filtering  
-- using Q&A analysis to generate insights through natural language queries  
-- implementing a decomposition tree for deep drill‑down analysis  
-- designing a clean, business‑ready dashboard layout  
+- Power Query cleaning  
+- creating relationships  
+- interactive visuals  
+- Q&A insights  
+- decomposition tree  
+- business‑ready layout
 
 <br>
 
 **Insights & Impact:**  
-The dashboard revealed clear differences in category performance, highlighted regional sales trends, and enabled dynamic drill‑downs using the decomposition tree. Interactive visuals allow employers to click any chart and instantly see related changes across the entire dashboard.
+The dashboard revealed category performance differences, regional trends, and dynamic drill‑downs.
 
 <br><br>
 
@@ -152,19 +151,14 @@ The dashboard revealed clear differences in category performance, highlighted re
 
 ---
 
+### Links  
+- [Power BI Dashboard](https://app.powerbi.com/links/PMd5n60xXh?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
+
+<br><br>
+
+---
+
 ### Project 4 – SQL – Retail Database Design & Implementation
-
-<br>
-
-**Full SQL Essay Report:**  
-[View SQL – Essay (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Essay.pdf)
-
-<br>
-
-**Full SQL Brief Report:**  
-[View SQL – Brief (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Brief.pdf)
-
-<br>
 
 **Dataset / Scenario:**  
 A small corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points.
@@ -172,21 +166,17 @@ A small corner shop needs a new database system to manage inventory, suppliers, 
 <br>
 
 **Problem:**  
-I designed and built a relational database that:  
-- stores supplier, inventory, sales, customer, and loyalty programme data  
-- defines clear primary and foreign key relationships  
-- supports daily operations such as stock checks, sales recording, and loyalty tracking  
-- includes SQL examples for creating tables, inserting data, and maintaining accuracy
+I designed and built a relational database that stores supplier, inventory, sales, customer, and loyalty programme data.
 
 <br>
 
 **Approach Taken:**  
-Analysed business requirements, identified essential tables, designed a relational schema, and implemented it using SQL `CREATE TABLE`, `INSERT`, and `FOREIGN KEY` statements.
+Designed schema, created tables, inserted data, and defined foreign keys.
 
 <br>
 
 **Insights & Impact:**  
-The database structure supports efficient stock management, accurate sales tracking, customer loyalty monitoring, and secure data handling.
+Supports efficient stock management, accurate sales tracking, and customer loyalty monitoring.
 
 <br><br>
 
@@ -204,43 +194,33 @@ The database structure supports efficient stock management, accurate sales track
 
 ---
 
+### Links  
+- [SQL Essay Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Essay.pdf)  
+- [SQL Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Brief.pdf)
+
+<br><br>
+
+---
+
 ### Project 6 – Azure – Cloud Migration & Data Strategy for Paws & Whiskers
 
-<br>
-
-**Full Azure Brief Report:**  
-[View Azure – Brief (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Brief.pdf)
-
-<br>
-
-**Full Azure Report:**  
-[View Azure – Full Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Report.pdf)
-
-<br>
-
 **Scenario:**  
-Paws & Whiskers is transitioning from spreadsheets to Microsoft Azure to improve data storage, security, automation, and analytics.
+Paws & Whiskers is transitioning from spreadsheets to Azure.
 
 <br>
 
 **Problem:**  
-I analysed business needs and produced a structured Azure proposal covering:  
-- GDPR & DPA compliance  
-- recommended Azure services  
-- data types and modelling  
-- storage formats  
-- security, backup, and scalability  
-- how Azure improves daily operations
+I produced an Azure proposal covering compliance, services, modelling, storage, security, backup, and scalability.
 
 <br>
 
 **Approach Taken:**  
-Reviewed UK/EU data laws, mapped business requirements, selected Azure services (SQL Database, Synapse, Machine Learning, Data Factory), designed a relational data model, recommended secure storage formats, and outlined backup and scalability strategies.
+Mapped requirements, selected Azure services, designed schema, recommended storage formats, outlined security and scalability.
 
 <br>
 
 **Insights & Impact:**  
-Azure provides secure, compliant storage, automated data pipelines, advanced analytics, and scalable infrastructure — enabling Paws & Whiskers to modernise operations.
+Azure enables secure storage, automation, analytics, and scalable infrastructure.
 
 <br><br>
 
@@ -254,29 +234,32 @@ Azure provides secure, compliant storage, automated data pipelines, advanced ana
 
 ---
 
+### Links  
+- [Azure Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Brief.pdf)  
+- [Azure Full Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Report.pdf)
+
+<br><br>
+
+---
+
 ### Project 8 – Pandas – Student Data Analysis
-
-**Notebook Link:**  
-[Pandas Pivot Table – Student Analysis](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PANDAS_Pivot_Table.ipynb)
-
-<br>
 
 **Dataset:** student.csv
 
 <br>
 
 **Problem:**  
-Using Pandas, I loaded, explored, sliced, manipulated, aggregated, and exported the **student.csv** dataset.
+Using Pandas, I loaded, explored, sliced, manipulated, aggregated, and exported the dataset.
 
 <br>
 
 **Approach Taken:**  
-Performed indexing, slicing, created new calculated columns, grouped values, built pivot tables, sorted results, and exported the final dataset using core Pandas functions.
+Performed indexing, slicing, created new columns, grouped values, built pivot tables, sorted results, exported final dataset.
 
 <br>
 
 **Insights & Impact:**  
-This task demonstrated practical data‑analysis skills using Pandas — understanding DataFrame structure, filtering data efficiently, creating new features, summarising groups, and preparing data for further analysis.
+Demonstrated practical data‑analysis skills using Pandas.
 
 <br><br>
 
@@ -290,30 +273,31 @@ This task demonstrated practical data‑analysis skills using Pandas — underst
 
 ---
 
+### Links  
+- [Pandas Pivot Table Notebook](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PANDAS_Pivot_Table.ipynb)
+
+<br><br>
+
+---
+
 ### Project 9 – Python – GDP & Student Visualisation Tasks
-
-**Notebook Link:**  
-[Student Data Analysis – Task 2 (Cleaning & Visualising Data)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Task_2_Cleaning_and_Visualising_data.ipynb)
-
-<br>
 
 **Dataset:** GDP (Nominal) Per Capita.csv & student.csv
 
 <br>
 
 **Problem:**  
-Using Pandas, Matplotlib, and Seaborn, I created multiple visualisations to explore GDP data and student performance.
+Using Pandas, Matplotlib, and Seaborn, I created multiple visualisations.
 
 <br>
 
 **Approach Taken:**  
-Loaded datasets, inspected rows and columns, created histograms, scatter plots, boxplots, countplots, and barplots using Matplotlib and Seaborn.
+Loaded datasets, inspected rows, created histograms, scatter plots, boxplots, countplots, and barplots.
 
 <br>
 
 **Insights & Impact:**  
-The GDP dataset showed missing values in IMF estimates.  
-Student visualisations revealed mark ranges, gender differences, class performance gaps, outliers, and class size imbalances.
+GDP dataset showed missing values; student visuals revealed performance patterns.
 
 <br><br>
 
@@ -338,6 +322,13 @@ Student visualisations revealed mark ranges, gender differences, class performan
 #### Python Visualisation – Box & Whisker Plot  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Whiskers%20-%201.png" width="100%">
 *Box‑and‑whisker plot showing score distribution and outliers.*
+
+<br><br>
+
+---
+
+### Links  
+- [Student Data Analysis Notebook](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Task_2_Cleaning_and_Visualising_data.ipynb)
 
 <br><br>
 
