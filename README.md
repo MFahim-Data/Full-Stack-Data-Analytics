@@ -7,8 +7,7 @@ Hi, I am a Data Technician Trainee building practical projects using Excel, Tabl
 
 This GitHub Pages site showcases all my course modules, including real code, visualisations, cloud work, and analysis tasks completed throughout the programme.
 
-<br><br>
-
+<br>
 ---
 
 ### Core Skills  
@@ -27,7 +26,7 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 ### Portfolio Projects  
 In this section, I showcase my data analytics projects — outlining the problem, the data used, the approach taken, and the insights or business impact delivered.
 
-<br><br>
+<br>
 
 ---
 
@@ -42,25 +41,21 @@ Using the imported **student.csv** dataset, I analysed student performance by:
 - identifying the **best student in each class** using `MAX()` and `INDEX/MATCH`  
 - producing an overall summary table of results
 
-<br>
+
 
 **Approach Taken:**  
 Developed new calculated fields, applied conditional logic, used aggregate Excel functions, and built summary metrics to evaluate student performance across categories, genders, and classes.
 
-<br>
 
 **Insights & Impact:**  
 The analysis revealed clear performance differences between classes and genders, highlighted top‑performing students, and provided a structured breakdown of achievement categories — supporting more targeted academic evaluation.
 
-<br><br>
-
+<br>
 ---
 
 #### Student Performance Data – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%201.png" width="100%">
 *Student dataset analysis including score categories, averages, and top‑performer identification.*
-
-<br><br>
 
 ---
 
@@ -68,7 +63,7 @@ The analysis revealed clear performance differences between classes and genders,
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%202.png" width="100%">
 *Additional view of the student performance calculations and summary tables.*
 
-<br><br>
+<br>
 
 ---
 
