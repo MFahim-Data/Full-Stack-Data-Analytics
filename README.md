@@ -230,18 +230,39 @@ See the image below for a visual breakdown of these insights.
 
 ### Project 6 – Azure – Cloud Migration & Data Strategy for Paws & Whiskers
 
-**Scenario:**  
-Paws & Whiskers is transitioning from spreadsheets to Azure.
+*Dataset / Scenario:*  
+A small corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points. The goal is to streamline operations and support staff and managers with accurate, structured data.
 
-**Problem:**  
-I produced an Azure proposal covering compliance, services, modelling, storage, security, backup, and scalability.
+*Problem:*  
+I was required to design and build a relational database that:  
+- stores supplier, inventory, sales, customer, and loyalty programme data  
+- defines clear primary and foreign key relationships  
+- supports daily operations such as stock checks, sales recording, and loyalty tracking  
+- includes SQL examples for creating tables, inserting data, and maintaining accuracy
 
-**Approach Taken:**  
-Mapped requirements, selected Azure services, designed schema, recommended storage formats, outlined security and scalability.
+*Approach Taken:*  
+I analysed the business requirements, identified the essential tables, designed a relational schema, and implemented it using SQL CREATE TABLE, INSERT, and FOREIGN KEY statements. I ensured each table connected logically to support real‑world shop operations.
+
 
 **Insights & Impact:**  
-Azure enables secure storage, automation, analytics, and scalable infrastructure.
+**Insights:**  
+- Azure SQL Database replaces unreliable spreadsheets with secure, centralised storage that keeps customer, sales, and inventory data consistent and compliant.  
+- GDPR, DPA, PCI DSS, and cybersecurity requirements are fully supported through Azure’s encryption, RBAC access controls, and Key Vault for protecting sensitive customer and payment data.  
+- Azure Synapse Analytics and Machine Learning provide deeper visibility into sales trends, seasonal demand, customer behaviour, and future stock needs.  
+- Azure Data Factory automates data imports from POS systems, spreadsheets, and supplier files, ensuring accurate, up‑to‑date data without manual effort.  
+- Azure’s support for CSV, JSON, and Parquet — combined with Backup, Site Recovery, and Power BI integration — enables reliable analytics, strong continuity, and scalable growth as the business expands.
 
+**Impact:**  
+- Replaces unreliable spreadsheets with secure, compliant, cloud‑based storage.  
+- Ensures customer and payment data meets GDPR, DPA, PCI DSS, and cybersecurity requirements.  
+- Automates data imports and updates, reducing manual errors and saving staff time.  
+- Provides managers with stronger reporting, forecasting, and customer insight through Synapse and Machine Learning.  
+- Improves operational efficiency with accurate stock tracking, sales visibility, and supplier management.  
+- Enhances security through encryption, RBAC, and Key Vault, preventing unauthorised access or data breaches.  
+- Strengthens business continuity with automated backups and regional failover protection.  
+- Supports long‑term growth with scalable storage, compute, and analytics tools.  
+
+See the image below for a visual breakdown of these insights.
 ---
 
 #### Azure Cloud Proposal – Output  
@@ -252,8 +273,15 @@ Azure enables secure storage, automation, analytics, and scalable infrastructure
 ---
 
 ### Links  
-- [Azure Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Brief.pdf)  
+- [Azure Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Brief.pdf)
+
+ *This is the full SQL report containing my complete database design, table creation, relationships, and detailed explanations of how I built and implemented the retail database.
+ 
 - [Azure Full Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Report.pdf)
+
+  *This brief report outlines the core requirements of the project and summarises the key deliverables for the retail database task.*
+
+**
 
 ---
 
