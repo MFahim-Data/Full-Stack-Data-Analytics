@@ -40,9 +40,10 @@ Using the imported **student.csv** dataset, I analysed student performance by:
 Developed new fields, applied conditional logic, used aggregate Excel functions, and built summary metrics to evaluate student performance across categories, genders, and classes.
 
 **Insights:**  
-The analysis shows clear performance gaps between classes — Class Six performs strongly, while Class Four falls well below the average. Female students also outperform males by around **6%** on average.
+- Class Six performs strongly, while Class Four falls well below the average, showing clear performance gaps between classes.  
+- Female students outperform males by around **6%** on average.  
+- Top‑scoring students don’t always reflect overall class performance — Classes Eight and Five rank 3rd and 4th in average score, yet their highest scorers achieved lower marks than the top students in Classes Five and Six.
 
-The data highlights that **top‑scoring students don’t always match overall class performance**. For example, Classes Eight and Five rank 3rd and 4th in average score, yet their highest‑scoring students achieved lower marks than the top students in Classes Five and Six.
 
 **Impact:**  
 - Strengthen lower‑performing classes  
