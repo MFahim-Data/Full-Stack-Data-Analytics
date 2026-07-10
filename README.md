@@ -332,16 +332,37 @@ Imported Pandas, loaded the CSV into a DataFrame, explored structure and statist
 
 ### Project 9 – Python – GDP & Student Visualisation Tasks
 
-**Dataset:** GDP (Nominal) Per Capita.csv & student.csv
 
-**Problem:**  
-Using Pandas, Matplotlib, and Seaborn, I created multiple visualisations.
+*Dataset:* GDP (nominal) per Capita.csv & student.csv
 
-**Approach Taken:**  
-Loaded datasets, inspected rows, created histograms, scatter plots, boxplots, countplots, and barplots.
+*Problem:*  
+Using Pandas, Matplotlib, and Seaborn, I was required to:  
+- load and explore the GDP dataset  
+- print specific rows and columns  
+- upload and analyse the student dataset  
+- create multiple visualisations (histogram, scatter, boxplot, countplot, barplot)  
+- interpret each chart with clear insights
 
+*Approach Taken:*  
+Loaded the GDP dataset using read_csv, inspected the first and last rows, and selected specific columns.  
+Installed and imported Matplotlib/Seaborn, uploaded the student dataset, and created visualisations showing mark distribution, gender differences, class performance, class sizes, and average marks.  
+Used functions such as head, tail, df[...], plt.figure, plt.hist, sns.boxplot, sns.countplot, and sns.barplot.
 **Insights & Impact:**  
 GDP dataset showed missing values; student visuals revealed performance patterns.
+
+**Insights:**  
+- The histogram shows most student marks fall between 50–95, with a strong concentration in the 80–90 range and one clear outlier around 20.  
+- The gender scatter plot highlights that females have a wider mark range and score more of the highest marks, while males show a narrower distribution and fewer marks above 90.  
+- The boxplot reveals class‑level performance gaps: Class Six performs strongest, Classes Three, Four, Seven also pass consistently, while Class Nine sits below 50 and requires support.  
+- Class size analysis shows uneven distribution — Classes Eight and Nine have very few students, while Classes Six, Seven, and Four are overcrowded, suggesting potential rebalancing.  
+- Average‑mark comparison confirms females score around 5–6% higher than males, while “NaN” entries need investigation to ensure accurate gender categorisation.
+
+**Impact:**  
+- Enables targeted academic interventions, such as supporting low‑performing classes (e.g., Class Nine) and addressing gender‑based performance gaps.  
+- Helps identify structural issues like uneven class sizes, informing decisions about merging or redistributing students.  
+- Highlights mismatches between class averages and top‑scorer performance, guiding more balanced class planning.  
+- Storing these insights in a database (instead of Excel) ensures reliable long‑term tracking, prevents accidental overwrites, and supports consistent querying (e.g., “highest‑risk classes” or “gender performance trends”).  
+- Creates a foundation for dashboards, automated reporting, and future predictive models that monitor student performance over time.
 
 ---
 
