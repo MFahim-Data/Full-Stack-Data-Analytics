@@ -244,7 +244,7 @@ I was required to design and build a relational database that:
 I analysed the business requirements, identified the essential tables, designed a relational schema, and implemented it using SQL CREATE TABLE, INSERT, and FOREIGN KEY statements. I ensured each table connected logically to support real‑world shop operations.
 
 
-**Insights & Impact:**  
+
 **Insights:**  
 - Azure SQL Database replaces unreliable spreadsheets with secure, centralised storage that keeps customer, sales, and inventory data consistent and compliant.  
 - GDPR, DPA, PCI DSS, and cybersecurity requirements are fully supported through Azure’s encryption, RBAC access controls, and Key Vault for protecting sensitive customer and payment data.  
@@ -287,16 +287,31 @@ See the image below for a visual breakdown of these insights.
 
 ### Project 8 – Pandas – Student Data Analysis
 
-**Dataset:** student.csv
+--- 
+*Dataset:* student.csv
 
-**Problem:**  
-Using Pandas, I loaded, explored, sliced, manipulated, aggregated, and exported the dataset.
+*Problem:*  
+Using Pandas, I was required to load, explore, slice, manipulate, aggregate, and export the *student.csv* dataset. This included reading data, selecting columns, filtering rows, creating new columns, grouping values, building pivot tables, sorting results, and exporting updated DataFrames.
 
-**Approach Taken:**  
-Performed indexing, slicing, created new columns, grouped values, built pivot tables, sorted results, exported final dataset.
+*Approach Taken:*  
+Imported Pandas, loaded the CSV into a DataFrame, explored structure and statistics, performed indexing and slicing, created new calculated columns, grouped and aggregated values, built pivot tables, sorted results, and exported the final dataset. Each step used core Pandas functions such as read_csv, head, info, describe, loc, iloc, groupby, pivot_table, and to_csv.
 
-**Insights & Impact:**  
-Demonstrated practical data‑analysis skills using Pandas.
+
+**Insights:**  
+- Pandas makes it easy to explore the *student.csv* dataset, revealing clear performance gaps between classes — Class Six performs strongly while Class Four falls well below average.  
+- Gender analysis shows female students outperform males by around 6%, a pattern highlighted through grouping and aggregation.  
+- Pivot tables and groupby operations show that top‑scoring students don’t always align with overall class performance, with Classes Eight and Five ranking higher on averages despite lower top‑scorer results.  
+- Creating new calculated columns and filtering rows helps isolate underperforming groups and understand where support is most needed.  
+- Exporting cleaned DataFrames ensures the insights can be stored in a database, enabling more reliable long‑term tracking than Excel.
+
+**Impact:**  
+- Enables targeted academic support, such as strengthening lower‑performing classes and providing additional help for male students.  
+- Helps educators identify mismatches between class averages and top‑scorer performance, guiding more balanced class structuring.  
+- Storing the processed data in a database (instead of Excel) improves reliability, prevents accidental overwrites, and supports scalable reporting.  
+- Database storage allows staff to run consistent queries (e.g., “lowest‑performing classes” or “gender performance gaps”) without re‑processing spreadsheets.  
+- Creates a foundation for dashboards, automated reports, and future machine‑learning models that track student performance over time.
+
+
 
 ---
 
