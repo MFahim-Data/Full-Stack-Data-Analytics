@@ -325,6 +325,9 @@ Imported Pandas, loaded the CSV into a DataFrame, explored structure and statist
 ### Links  
 - [Pandas Pivot Table Notebook](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PANDAS_Pivot_Table.ipynb)
 
+*CLick the link to view the full queries of Project on PANDAS*
+
+
 ---
 
 ### Project 9 – Python – GDP & Student Visualisation Tasks
