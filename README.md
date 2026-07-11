@@ -9,39 +9,14 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 
 ---
 
-## Table of Contents – Core Skills
-- [Excel](#excel)
-- [Tableau](#tableau)
-- [Power BI](#power-bi)
-- [SQL](#sql)
-- [Azure](#azure)
-- [Pandas](#pandas)
-- [Python](#python)
-
----
-
-## Core Skills  
-
-#### Excel  
-tables, filters, formulas, structured data modelling  
-
-#### Tableau  
-charts, dashboards, collaborative visual storytelling  
-
-#### Power BI  
-data cleaning, relationships, interactive reporting  
-
-#### SQL  
-joins, grouping, business logic systems, insights  
-
-#### Azure  
-Synapse Analytics, Machine Learning notebooks, Data Factory pipelines  
-
-#### Pandas  
-data cleaning, filtering, grouping, Colab notebooks  
-
-#### Python  
-scripting, loops, and basic data visualisation  
+### Core Skills  
+- *Excel* — tables, filters, formulas, structured data modelling  
+- *Tableau* — charts, dashboards, collaborative visual storytelling  
+- *Power BI* — data cleaning, relationships, interactive reporting  
+- *SQL* — joins, grouping, business logic systems, insights  
+- *Azure* — Synapse Analytics, Machine Learning notebooks, Data Factory pipelines  
+- *Pandas* — data cleaning, filtering, grouping, Colab notebooks  
+- *Python* — scripting, loops, and basic data visualisation
 
 
 ---
