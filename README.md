@@ -25,7 +25,7 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 In this section, I showcase my data analytics projects — outlining the problem, the data used, the approach taken, and the insights or business impact delivered.
 
 ---
-
+<a name="project-1-excel"></a>
 ### Project 1 – Excel – Student Performance Analysis
 
 **Problem:**  
@@ -75,7 +75,7 @@ See the image below for a visual breakdown of these insights.
 
 <br>
 ---
-
+<a name="project-2-tableau"></a>
 ### Project 2 – Tableau – Introductory Data Visualisation & Analysis
 
 **Problem:**  
@@ -126,8 +126,9 @@ See the image below for a visual breakdown of these insights.
 
 <br>
 ---
-
+<a name="project-3-power-bi"></a>
 ### Project 3 – Power BI – Sales Performance Dashboard
+
 
 
 *PROBLEM:*  
@@ -176,6 +177,7 @@ See the image below for a visual breakdown of these insights.
 
 ---
 
+<a name="project-4-sql"></a>
 ### Project 4 – SQL – Retail Database Design & Implementation
 
 
@@ -229,8 +231,9 @@ See the image below for a visual breakdown of these insights.
 
 
 ---
+<a name="project-6-azure"></a>
+### Project 5 – Azure – Cloud Migration & Data Strategy for Paws & Whiskers
 
-### Project 6 – Azure – Cloud Migration & Data Strategy for Paws & Whiskers
 
 *Dataset / Scenario:*  
 A small corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points. The goal is to streamline operations and support staff and managers with accurate, structured data.
@@ -287,7 +290,8 @@ See the image below for a visual breakdown of these insights.
 
 ---
 
-### Project 8 – Pandas – Student Data Analysis
+<a name="project-8-pandas"></a>
+### Project 6 – Pandas – Student Data Analysis
 
 --- 
 *Dataset:* student.csv
@@ -332,7 +336,8 @@ Imported Pandas, loaded the CSV into a DataFrame, explored structure and statist
 
 ---
 
-### Project 9 – Python – GDP & Student Visualisation Tasks
+<a name="project-9-python"></a>
+### Project 7 – Python – GDP & Student Visualisation Tasks
 
 
 *Dataset:* GDP (nominal) per Capita.csv & student.csv
