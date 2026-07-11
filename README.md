@@ -19,6 +19,9 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 - **[Python](#project-7-python)** — scripting, loops, and basic data visualisation  
 - **[Socials](#socials)** — email, GitHub, LinkedIN
 
+
+<br>
+*Click the Links to be Transferred to the Section*
 ---
 
 ### Portfolio Projects  
