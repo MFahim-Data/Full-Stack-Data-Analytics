@@ -16,7 +16,8 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 - **[SQL](#project-4-sql)** — joins, grouping, business logic systems, insights  
 - **[Azure](#project-5-azure)** — Synapse Analytics, Machine Learning notebooks, Data Factory pipelines  
 - **[Pandas](#project-6-pandas)** — data cleaning, filtering, grouping, Colab notebooks  
-- **[Python](#project-7-python)** — scripting, loops, and basic data visualisation  
+- **[Python](#project-7-python)** — scripting, loops, and basic data visualisation
+- **[Final Summary](#final-summary)** — closing statement  
 - **[Socials](#socials)** — email, GitHub, LinkedIN
 
 
@@ -408,6 +409,12 @@ GDP dataset showed missing values; student visuals revealed performance patterns
 
 ### Links  
 - [Student Data Analysis Notebook](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Task_2_Cleaning_and_Visualising_data.ipynb)
+
+---
+<a name="final-summary"></a>
+## Final Summary
+This 6‑week data analytics portfolio demonstrates my ability to work across Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python. Each project reflects real analytical tasks, including data cleaning, visualisation, dashboard building, database design, and cloud workflows. I’m continuing to build deeper skills in data engineering and BI development, and I’m open to opportunities where I can apply and grow these capabilities.
+
 
 ---
 
