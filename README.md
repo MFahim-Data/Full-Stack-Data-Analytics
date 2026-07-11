@@ -26,6 +26,7 @@ In this section, I showcase my data analytics projects — outlining the problem
 
 ---
 <a name="project-1-excel"></a>
+
 ### Project 1 – Excel – Student Performance Analysis
 
 **Problem:**  
@@ -74,8 +75,11 @@ See the image below for a visual breakdown of these insights.
 
 
 <br>
+
+
 ---
 <a name="project-2-tableau"></a>
+
 ### Project 2 – Tableau – Introductory Data Visualisation & Analysis
 
 **Problem:**  
@@ -127,6 +131,7 @@ See the image below for a visual breakdown of these insights.
 <br>
 ---
 <a name="project-3-power-bi"></a>
+
 ### Project 3 – Power BI – Sales Performance Dashboard
 
 
@@ -178,6 +183,7 @@ See the image below for a visual breakdown of these insights.
 ---
 
 <a name="project-4-sql"></a>
+
 ### Project 4 – SQL – Retail Database Design & Implementation
 
 
@@ -232,6 +238,7 @@ See the image below for a visual breakdown of these insights.
 
 ---
 <a name="project-5-azure"></a>
+
 ### Project 5 – Azure – Cloud Migration & Data Strategy for Paws & Whiskers
 
 
@@ -291,6 +298,7 @@ See the image below for a visual breakdown of these insights.
 ---
 
 <a name="project-6-pandas"></a>
+
 ### Project 6 – Pandas – Student Data Analysis
 
 --- 
@@ -337,6 +345,7 @@ Imported Pandas, loaded the CSV into a DataFrame, explored structure and statist
 ---
 
 <a name="project-7-python"></a>
+
 ### Project 7 – Python – GDP & Student Visualisation Tasks
 
 
