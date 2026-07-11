@@ -17,7 +17,7 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 - **[Azure](#project-5-azure)** — Synapse Analytics, Machine Learning notebooks, Data Factory pipelines  
 - **[Pandas](#project-6-pandas)** — data cleaning, filtering, grouping, Colab notebooks  
 - **[Python](#project-7-python)** — scripting, loops, and basic data visualisation  
-
+- **[Socials](#socials)** — email, GitHub, LinkedIN
 
 ---
 
@@ -231,7 +231,7 @@ See the image below for a visual breakdown of these insights.
 
 
 ---
-<a name="project-6-azure"></a>
+<a name="project-5-azure"></a>
 ### Project 5 – Azure – Cloud Migration & Data Strategy for Paws & Whiskers
 
 
@@ -290,7 +290,7 @@ See the image below for a visual breakdown of these insights.
 
 ---
 
-<a name="project-8-pandas"></a>
+<a name="project-6-pandas"></a>
 ### Project 6 – Pandas – Student Data Analysis
 
 --- 
@@ -336,7 +336,7 @@ Imported Pandas, loaded the CSV into a DataFrame, explored structure and statist
 
 ---
 
-<a name="project-9-python"></a>
+<a name="project-7-python"></a>
 ### Project 7 – Python – GDP & Student Visualisation Tasks
 
 
@@ -403,3 +403,5 @@ GDP dataset showed missing values; student visuals revealed performance patterns
 - Email: mohammedfahim4@outlook.com  
 - [GitHub](https://github.com/MFahim-Data)  
 - [LinkedIn](https://www.linkedin.com/in/mohammed-fahim-data/)
+
+<a name="socials"></a>
