@@ -4,8 +4,8 @@
 Hi, I am a Data Technician Trainee building practical projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
 
 This GitHub Pages site showcases all my course modules, including real code, visualisations, cloud work, and analysis tasks completed throughout the programme.
-<br>
 
+<br>
 
 
 ### Table of Contents – Core Skills  
