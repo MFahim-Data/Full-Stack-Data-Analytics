@@ -21,19 +21,15 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 
 
 <br>
+
 *Click the Links to be Transferred to the Section*
+
 <br>
-
-
-
-
-
 
 ---
+
 ### Portfolio Projects  
 In this section, I showcase my data analytics projects — outlining the problem, the data used, the approach taken, and the insights or business impact delivered.
-
-<br>
 
 ---
 <a name="project-1-excel"></a>
@@ -53,7 +49,6 @@ Using the imported **student.csv** dataset, I analysed student performance by:
 
 **Approach Taken:**  
 Developed new fields, applied conditional logic, used aggregate Excel functions, and built summary metrics to evaluate student performance across categories, genders, and classes.
-
 
 <br>
 
@@ -95,7 +90,6 @@ See the image below for a visual breakdown of these insights.
 - [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
 
 
-<br>
 <br>
 <br>
 
