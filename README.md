@@ -20,7 +20,7 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 
 <br>
 *Click the links to jump to each section.*
-<br><br>
+<br>
 
 ---
 
@@ -68,7 +68,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%201.png" width="100%">
 *Student dataset analysis including score categories, averages, and top‑performer identification.*
 
-<br><br>
+<br>
 
 ### Additional Summary View – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%202.png" width="100%">
@@ -79,7 +79,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 ### Links
 - [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
 
-<br><br>
+<br>
 
 ---
 
@@ -128,7 +128,7 @@ Connected the dataset, checked data types, built multiple worksheets, and combin
 ### Links
 - [Tableau Public Dashboard](https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_link)
 
-<br><br>
+<br>
 
 ---
 
@@ -177,7 +177,7 @@ Build an interactive Power BI dashboard to analyse retail sales performance, ide
 ### Links
 - [Power BI Dashboard](https://app.powerbi.com/links/PMd5n60xXh?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
-<br><br>
+<br>
 
 ---
 
@@ -234,7 +234,7 @@ Analysed requirements, designed schema, implemented tables using SQL, and ensure
 - [SQL Essay Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Essay.pdf)  
 - [SQL Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Brief.pdf)
 
-<br><br>
+<br>
 
 ---
 
@@ -279,7 +279,7 @@ Designed Azure SQL Database, Synapse Analytics, Data Factory pipelines, and secu
 - [Azure Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Brief.pdf)  
 - [Azure Full Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Report.pdf)
 
-<br><br>
+<br>
 
 ---
 
@@ -328,7 +328,7 @@ Used read_csv, head, info, describe, loc, iloc, groupby, pivot_table, and to_csv
 ### Links
 - [Pandas Pivot Table Notebook](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PANDAS_Pivot_Table.ipynb)
 
-<br><br>
+<br>
 
 ---
 
@@ -389,7 +389,7 @@ Used read_csv, head, tail, plt.figure, plt.hist, sns.boxplot, sns.countplot, sns
 ### Links
 - [Student Data Analysis Notebook](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Task_2_Cleaning_and_Visualising_data.ipynb)
 
-<br><br>
+<br>
 
 ---
 
