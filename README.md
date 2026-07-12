@@ -22,6 +22,7 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 
 <br>
 *Click the Links to be Transferred to the Section*
+<br>
 
 
 
@@ -35,6 +36,7 @@ In this section, I showcase my data analytics projects — outlining the problem
 <br>
 
 ---
+<br>
 <a name="project-1-excel"></a>
 
 ### Project 1 – Excel – Student Performance Analysis
@@ -48,14 +50,20 @@ Using the imported **student.csv** dataset, I analysed student performance by:
 - Identifying the **best student in each class** using `MAX()` and `INDEX/MATCH`  
 - Producing an overall summary table of results
 
+<br>
+
 **Approach Taken:**  
 Developed new fields, applied conditional logic, used aggregate Excel functions, and built summary metrics to evaluate student performance across categories, genders, and classes.
+
+
+<br>
 
 **Insights:**  
 - Class Six performs strongly, while Class Four falls well below the average, showing clear performance gaps between classes.  
 - Female students outperform males by around **6%** on average.  
 - Top‑scoring students don’t always reflect overall class performance — Classes Eight and Five rank 3rd and 4th in average score, yet their highest scorers achieved lower marks than the top students in Classes Five and Six.
 
+<br>
 
 **Impact:**  
 - Strengthen lower‑performing classes  
@@ -64,12 +72,15 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 See the image below for a visual breakdown of these insights.
 
+<br>
 ---
 
 #### Student Performance Data – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%201.png" width="100%">
 <br>
 *Student dataset analysis including score categories, averages, and top‑performer identification.*
+
+<br>
 
 ---
 
@@ -85,7 +96,8 @@ See the image below for a visual breakdown of these insights.
 
 
 <br>
-
+<br>
+<br>
 
 ---
 <a name="project-2-tableau"></a>
