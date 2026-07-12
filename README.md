@@ -1,4 +1,4 @@
-<img width="739" height="597" alt="image" src="https://github.com/user-attachments/assets/a3889a66-3b10-40fe-ae20-e7d15ed8375f" /># Mohammed Fahim 
+# Mohammed Fahim 
 ## Data Technician Trainee
 
 Hi, I am a Data Technician Trainee building practical projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
