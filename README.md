@@ -413,9 +413,8 @@ GDP dataset showed missing values; student visuals revealed performance patterns
 ---
 <a name="final-summary"></a>
 ## Final Summary
-This 6‑week data analytics portfolio demonstrates my ability to work across Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python. Each project reflects real analytical tasks, including data cleaning, visualisation, dashboard building, database design, and cloud workflows. I’m continuing to build deeper skills in data engineering and BI development, and I’m open to opportunities where I can apply and grow these capabilities.
 
-
+This 6‑week data analytics portfolio reflects a broad and practical skill set across Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python. The projects demonstrate structured analytical workflows, effective data visualisation, robust database design, and cloud‑based processing. I am continuing to advance my capabilities in BI development and data engineering, and I’m seeking opportunities where I can apply these skills to deliver meaningful analytical value.
 ---
 
 ### Socials  
