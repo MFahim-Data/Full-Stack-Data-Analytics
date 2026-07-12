@@ -68,7 +68,6 @@ See the image below for a visual breakdown of these insights.
 
 <br>
 
----
 
 #### Student Performance Data – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%201.png" width="100%">
@@ -77,7 +76,6 @@ See the image below for a visual breakdown of these insights.
 
 <br>
 
----
 
 #### Additional Summary View – Output  
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%202.png" width="100%">
@@ -87,7 +85,7 @@ See the image below for a visual breakdown of these insights.
 <br>
 
 
----
+
 ### Links  
 - [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
 
