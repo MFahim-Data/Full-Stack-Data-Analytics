@@ -1,4 +1,4 @@
-# Mohammed Fahim 
+<img width="739" height="597" alt="image" src="https://github.com/user-attachments/assets/a3889a66-3b10-40fe-ae20-e7d15ed8375f" /># Mohammed Fahim 
 ## Data Technician Trainee
 
 Hi, I am a Data Technician Trainee building practical projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
@@ -30,6 +30,8 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 
 ### Portfolio Projects  
 In this section, I showcase my data analytics projects — outlining the problem, the data used, the approach taken, and the insights or business impact delivered.
+
+<br>
 
 ---
 <a name="project-1-excel"></a>
@@ -75,6 +77,9 @@ See the image below for a visual breakdown of these insights.
 *Student dataset analysis including score categories, averages, and top‑performer identification.*
 
 <br>
+
+<br>
+
 
 
 #### Additional Summary View – Output  
