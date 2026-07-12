@@ -36,7 +36,6 @@ In this section, I showcase my data analytics projects — outlining the problem
 <br>
 
 ---
-<br>
 <a name="project-1-excel"></a>
 
 ### Project 1 – Excel – Student Performance Analysis
