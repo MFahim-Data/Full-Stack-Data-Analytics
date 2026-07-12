@@ -6,7 +6,7 @@ Hi, I am a Data Technician Trainee building practical projects using Excel, Tabl
 This GitHub Pages site showcases all my course modules, including real code, visualisations, cloud work, and analysis tasks completed throughout the programme.
 <br>
 
----
+
 
 ### Table of Contents – Core Skills  
 - **[Excel](#project-1-excel)** — tables, filters, formulas, structured data modelling  
@@ -22,7 +22,6 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 
 <br>
 *Click the Links to be Transferred to the Section*
----
 
 ### Portfolio Projects  
 In this section, I showcase my data analytics projects — outlining the problem, the data used, the approach taken, and the insights or business impact delivered.
