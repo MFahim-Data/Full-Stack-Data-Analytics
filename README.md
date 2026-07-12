@@ -28,57 +28,60 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 ### Portfolio Projects  
 In this section, I showcase my data analytics projects — outlining the problem, the data used, the approach taken, and the insights or business impact delivered.
 
----
+
+<div style="margin-top: 40px;"></div>
+
 <a name="project-1-excel"></a>
+## Project 1 – Excel – Student Performance Analysis
 
-### Project 1 – Excel – Student Performance Analysis
-
-**Problem:**  
-Using the imported **student.csv** dataset, I analysed student performance by:  
-- Creating a **Score Category** column using `IFS()`  
-- Counting students in each category using `COUNTIF()`  
-- Calculating **average performance by gender** using `AVERAGEIF()`  
-- Calculating **average class scores** using `AVERAGEIF()`  
-- Identifying the **best student in each class** using `MAX()` and `INDEX/MATCH`  
+### Problem
+Using the imported **student.csv** dataset, I analysed student performance by:
+- Creating a **Score Category** column using `IFS()`
+- Counting students in each category using `COUNTIF()`
+- Calculating **average performance by gender** using `AVERAGEIF()`
+- Calculating **average class scores** using `AVERAGEIF()`
+- Identifying the **best student in each class** using `MAX()` and `INDEX/MATCH`
 - Producing an overall summary table of results
 
-**Approach Taken:**  
+<div style="margin-top: 25px;"></div>
+
+### Approach Taken
 Developed new fields, applied conditional logic, used aggregate Excel functions, and built summary metrics to evaluate student performance across categories, genders, and classes.
 
-**Insights:**  
-- Class Six performs strongly, while Class Four falls well below the average, showing clear performance gaps between classes.  
-- Female students outperform males by around **6%** on average.  
+<div style="margin-top: 25px;"></div>
+
+### Insights
+- Class Six performs strongly, while Class Four falls well below the average.
+- Female students outperform males by around **6%** on average.
 - Top‑scoring students don’t always reflect overall class performance — Classes Eight and Five rank 3rd and 4th in average score, yet their highest scorers achieved lower marks than the top students in Classes Five and Six.
 
+<div style="margin-top: 25px;"></div>
 
-**Impact:**  
+### Impact
 - Strengthen lower‑performing classes  
 - Provide targeted support for male students  
 - Rebalance class structures to improve overall performance  
 
-See the image below for a visual breakdown of these insights.
+<div style="margin-top: 40px;"></div>
 
----
-
-#### Student Performance Data – Output  
+### Student Performance Data – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%201.png" width="100%">
-<br>
+
 *Student dataset analysis including score categories, averages, and top‑performer identification.*
 
----
+<div style="margin-top: 40px;"></div>
 
-#### Additional Summary View – Output  
+### Additional Summary View – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%202.png" width="100%">
-<br>
+
 *Additional view of the student performance calculations and summary tables.*
 
-<br>
+<div style="margin-top: 40px;"></div>
 
-### Links  
+### Links
 - [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
 
-
-<br>
+<div style="margin-top: 60px;"></div>
 
 
 ---
