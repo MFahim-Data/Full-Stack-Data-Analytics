@@ -26,6 +26,7 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 
 
 <br>
+
 ### Portfolio Projects  
 In this section, I showcase my data analytics projects — outlining the problem, the data used, the approach taken, and the insights or business impact delivered.
 
