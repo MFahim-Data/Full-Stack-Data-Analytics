@@ -1,5 +1,5 @@
-# Mohammed Fahim  
-## Data Technician Trainee
+## Mohammed Fahim  
+### Data Technician Trainee
 
 Hi, I am a Data Technician Trainee building practical projects using Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python.
 
@@ -20,7 +20,6 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 
 <br>
 *Click the links to jump to each section.*
-<br>
 
 ---
 
@@ -29,10 +28,7 @@ In this section, I showcase my data analytics projects — outlining the problem
 
 <br>
 
-
-<br>
-
-<br>
+---
 
 <a name="project-1-excel"></a>
 ## Project 1 – Excel – Student Performance Analysis
@@ -342,5 +338,5 @@ This 6‑week data analytics portfolio reflects a broad and practical skill set 
 
 ## Socials
 - Email: mohammedfahim4@outlook.com  
-- [GitHub](https://github.com/MFahim-Data)  
-- [LinkedIn](https://www.linkedin.com/in/mohammed-fahim-data/)
+- GitHub: https://github.com/MFahim-Data  
+- LinkedIn: https://www.linkedin.com/in/mohammed-fahim-data/
