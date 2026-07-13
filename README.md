@@ -42,18 +42,26 @@ Using the imported **student.csv** dataset, I analysed student performance by:
 - Identifying the **best student in each class** using `MAX()` and `INDEX/MATCH`
 - Producing an overall summary table of results
 
+<br>
+
 ### Approach Taken
 Developed new fields, applied conditional logic, used aggregate Excel functions, and built summary metrics to evaluate student performance across categories, genders, and classes.
+
+<br>
 
 ### Insights
 - Class Six performs strongly, while Class Four falls well below the average.  
 - Female students outperform males by around **6%** on average.  
 - Top‑scoring students don’t always reflect overall class performance.
 
+<br>
+
 ### Impact
 - Strengthen lower‑performing classes  
 - Provide targeted support for male students  
 - Rebalance class structures  
+
+<br>
 
 ### Student Performance Data – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%201.png" width="100%">
@@ -71,6 +79,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 - [Download Student Dataset (Excel)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Excel/Student%20Dataset.xlsx)
 
 <br>
+
 
 ---
 
