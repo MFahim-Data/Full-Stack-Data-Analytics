@@ -80,7 +80,6 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 <br>
 
-
 ---
 
 <a name="project-2-tableau"></a>
@@ -94,8 +93,12 @@ Using Tableau, I created visualisations exploring global health trends:
 - BMI vs life expectancy scatter plot  
 - A final dashboard combining all visuals
 
+<br>
+
 ### Approach Taken
 Connected the dataset, checked data types, built multiple worksheets, and combined them into a dashboard titled **Global Health Insights**.
+
+<br>
 
 ### Insights
 - Europe and Oceania have the highest life expectancy; Africa the lowest.  
@@ -104,12 +107,16 @@ Connected the dataset, checked data types, built multiple worksheets, and combin
 - Population distribution varies widely across countries.  
 - Gender distribution is generally balanced.
 
+<br>
+
 ### Impact
 - Plan future healthcare demand  
 - Target public health campaigns  
 - Benchmark UK performance  
 - Allocate resources based on population density  
 - Forecast pressures on healthcare services  
+
+<br>
 
 ### Tableau Visual – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Global%20Health%20Insights%20Dashboard.png" width="100%">
@@ -130,6 +137,8 @@ Connected the dataset, checked data types, built multiple worksheets, and combin
 ### Problem
 Build an interactive Power BI dashboard to analyse retail sales performance, identify trends, and provide dynamic insights.
 
+<br>
+
 ### Approach Taken
 - Cleaned data in Power Query  
 - Created relationships between fact/dimension tables  
@@ -138,6 +147,8 @@ Build an interactive Power BI dashboard to analyse retail sales performance, ide
 - Implemented a decomposition tree  
 - Designed a business‑ready dashboard layout  
 
+<br>
+
 ### Insights
 - Consumer segment is strongest  
 - Customer segments are evenly distributed  
@@ -145,12 +156,16 @@ Build an interactive Power BI dashboard to analyse retail sales performance, ide
 - Decomposition tree reveals root causes  
 - Q&A speeds up insight discovery  
 
+<br>
+
 ### Impact
 - Prioritise high‑performing segments  
 - Align sales strategies  
 - Guide resource allocation  
 - Identify root causes  
 - Speed up decision‑making  
+
+<br>
 
 ### Sales Performance Dashboard – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Power%20Bi/Power%20Bi%20-%20Sales%20-%20Dashboard.PNG" width="100%">
@@ -171,6 +186,8 @@ Build an interactive Power BI dashboard to analyse retail sales performance, ide
 ### Dataset / Scenario
 A corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points.
 
+<br>
+
 ### Problem
 Design and build a relational database that:
 - Stores supplier, inventory, sales, customer, and loyalty data  
@@ -178,8 +195,12 @@ Design and build a relational database that:
 - Supports daily operations  
 - Includes SQL examples for table creation and data insertion  
 
+<br>
+
 ### Approach Taken
 Analysed requirements, designed schema, implemented tables using SQL, and ensured logical relationships.
+
+<br>
 
 ### Insights
 - Structure streamlines daily operations  
@@ -187,12 +208,16 @@ Analysed requirements, designed schema, implemented tables using SQL, and ensure
 - Schema is simple and easy to understand  
 - Maintenance ensures long‑term reliability  
 
+<br>
+
 ### Impact
 - Efficient stock and sales management  
 - Clear insight into trends  
 - Reduced errors  
 - Improved security and backups  
 - Reliable system for daily operations  
+
+<br>
 
 ### Customer ERD – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD.png" width="30%">
@@ -218,8 +243,12 @@ Analysed requirements, designed schema, implemented tables using SQL, and ensure
 ### Problem
 Migrate a small business from spreadsheets to a secure, scalable Azure cloud solution.
 
+<br>
+
 ### Approach Taken
 Designed Azure SQL Database, Synapse Analytics, Data Factory pipelines, and security controls (RBAC, Key Vault).
+
+<br>
 
 ### Insights
 - Azure replaces unreliable spreadsheets  
@@ -228,12 +257,16 @@ Designed Azure SQL Database, Synapse Analytics, Data Factory pipelines, and secu
 - Data Factory automates imports  
 - Strong backup and failover protection  
 
+<br>
+
 ### Impact
 - Secure cloud‑based storage  
 - Automated data updates  
 - Stronger reporting and forecasting  
 - Improved operational efficiency  
 - Scalable long‑term growth  
+
+<br>
 
 ### Azure Cloud Proposal – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Azure/Azure%20-%20P%26W'S%20Schema.png" width="60%">
@@ -255,11 +288,17 @@ Designed Azure SQL Database, Synapse Analytics, Data Factory pipelines, and secu
 ### Dataset
 student.csv
 
+<br>
+
 ### Problem
 Load, explore, slice, manipulate, aggregate, and export the dataset using Pandas.
 
+<br>
+
 ### Approach Taken
 Used read_csv, head, info, describe, loc, iloc, groupby, pivot_table, and to_csv to analyse and export data.
+
+<br>
 
 ### Insights
 - Clear performance gaps between classes  
@@ -268,12 +307,16 @@ Used read_csv, head, info, describe, loc, iloc, groupby, pivot_table, and to_csv
 - Filtering isolates underperforming groups  
 - Exporting DataFrames supports database storage  
 
+<br>
+
 ### Impact
 - Targeted academic support  
 - Balanced class structuring  
 - Reliable database storage  
 - Consistent querying  
 - Foundation for dashboards and ML models  
+
+<br>
 
 ### Pandas Pivot Table – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/PANDAS/PANDAS%20-%20Pivot%20Table.png" width="60%">
@@ -294,11 +337,17 @@ Used read_csv, head, info, describe, loc, iloc, groupby, pivot_table, and to_csv
 ### Dataset
 GDP (nominal) per Capita.csv & student.csv
 
+<br>
+
 ### Problem
 Load datasets, create visualisations, and interpret insights using Pandas, Matplotlib, and Seaborn.
 
+<br>
+
 ### Approach Taken
 Used read_csv, head, tail, plt.figure, plt.hist, sns.boxplot, sns.countplot, sns.barplot.
+
+<br>
 
 ### Insights
 - Most marks fall between 50–95  
@@ -307,12 +356,16 @@ Used read_csv, head, tail, plt.figure, plt.hist, sns.boxplot, sns.countplot, sns
 - Class sizes uneven  
 - Average marks confirm gender gap  
 
+<br>
+
 ### Impact
 - Targeted interventions  
 - Identify structural issues  
 - Balanced class planning  
 - Reliable database storage  
 - Foundation for dashboards and ML models  
+
+<br>
 
 ### Python Visualisation – Bar Chart
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Barchart%20-%201.png" width="100%">
