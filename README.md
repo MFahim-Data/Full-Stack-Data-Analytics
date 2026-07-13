@@ -398,6 +398,8 @@ This 6‑week data analytics portfolio reflects a broad and practical skill set 
 
 <br>
 
+---
+
 ## Socials
 - Email: mohammedfahim4@outlook.com  
 - GitHub: https://github.com/MFahim-Data  
