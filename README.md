@@ -7,7 +7,8 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 
 <br>
 
-## Table of Contents – Core Skills
+<a name="table-of-contents"></a>
+## Table of Contents – Core Skills                                                                                    
 - **[Excel](#project-1-excel)** — tables, filters, formulas, structured data modelling  
 - **[Tableau](#project-2-tableau)** — charts, dashboards, collaborative visual storytelling  
 - **[Power BI](#project-3-power-bi)** — data cleaning, relationships, interactive reporting  
@@ -31,7 +32,8 @@ In this section, I showcase my data analytics projects — outlining the problem
 ---
 
 <a name="project-1-excel"></a>
-## Project 1 – Excel – Student Performance Analysis
+## Project 1 – Excel – Student Performance Analysis  
+[↟ Back to Table of Contents](#table-of-contents)
 
 ### Problem
 Using the imported **student.csv** dataset, I analysed student performance by:
@@ -83,7 +85,8 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 ---
 
 <a name="project-2-tableau"></a>
-## Project 2 – Tableau – Introductory Data Visualisation & Analysis
+## Project 2 – Tableau – Introductory Data Visualisation & Analysis  
+[↟ Back to Table of Contents](#table-of-contents)
 
 ### Problem
 Using Tableau, I created visualisations exploring global health trends:
@@ -132,7 +135,8 @@ Connected the dataset, checked data types, built multiple worksheets, and combin
 ---
 
 <a name="project-3-power-bi"></a>
-## Project 3 – Power BI – Sales Performance Dashboard
+## Project 3 – Power BI – Sales Performance Dashboard  
+[↟ Back to Table of Contents](#table-of-contents)
 
 ### Problem
 Build an interactive Power BI dashboard to analyse retail sales performance, identify trends, and provide dynamic insights.
@@ -181,7 +185,8 @@ Build an interactive Power BI dashboard to analyse retail sales performance, ide
 ---
 
 <a name="project-4-sql"></a>
-## Project 4 – SQL – Retail Database Design & Implementation
+## Project 4 – SQL – Retail Database Design & Implementation  
+[↟ Back to Table of Contents](#table-of-contents)
 
 ### Dataset / Scenario
 A corner shop needs a new database system to manage inventory, suppliers, customers, sales, and loyalty points.
@@ -238,7 +243,8 @@ Analysed requirements, designed schema, implemented tables using SQL, and ensure
 ---
 
 <a name="project-5-azure"></a>
-## Project 5 – Azure – Cloud Migration & Data Strategy (Paws & Whiskers)
+## Project 5 – Azure – Cloud Migration & Data Strategy (Paws & Whiskers)  
+[↟ Back to Table of Contents](#table-of-contents)
 
 ### Problem
 Migrate a small business from spreadsheets to a secure, scalable Azure cloud solution.
@@ -283,7 +289,8 @@ Designed Azure SQL Database, Synapse Analytics, Data Factory pipelines, and secu
 ---
 
 <a name="project-6-pandas"></a>
-## Project 6 – Pandas – Student Data Analysis
+## Project 6 – Pandas – Student Data Analysis  
+[↟ Back to Table of Contents](#table-of-contents)
 
 ### Dataset
 student.csv
@@ -332,7 +339,8 @@ Used read_csv, head, info, describe, loc, iloc, groupby, pivot_table, and to_csv
 ---
 
 <a name="project-7-python"></a>
-## Project 7 – Python – GDP & Student Visualisation Tasks
+## Project 7 – Python – GDP & Student Visualisation Tasks  
+[↟ Back to Table of Contents](#table-of-contents)
 
 ### Dataset
 GDP (nominal) per Capita.csv & student.csv
@@ -393,14 +401,18 @@ Used read_csv, head, tail, plt.figure, plt.hist, sns.boxplot, sns.countplot, sns
 ---
 
 <a name="final-summary"></a>
-## Final Summary
+## Final Summary  
+[↟ Back to Table of Contents](#table-of-contents)
+
 This 6‑week data analytics portfolio reflects a broad and practical skill set across Excel, Tableau, Power BI, SQL, Azure, Pandas, and Python. The projects demonstrate structured analytical workflows, effective data visualisation, robust database design, and cloud‑based processing. I am continuing to advance my capabilities in BI development and data engineering, and I am seeking opportunities where I can apply these skills to deliver meaningful analytical value.
 
 <br>
 
 ---
 
-## Socials
+## Socials  
+[↟ Back to Table of Contents](#table-of-contents)
+
 - Email: mohammedfahim4@outlook.com  
 - GitHub: https://github.com/MFahim-Data  
 - LinkedIn: https://www.linkedin.com/in/mohammed-fahim-data/
