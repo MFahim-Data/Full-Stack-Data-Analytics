@@ -284,8 +284,9 @@ Designed Azure SQL Database, Synapse Analytics, Data Factory pipelines, and secu
 <br>
 
 ### Links
-- [Azure Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Brief.pdf)  
-- [Azure Full Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/Azure/Azure%20-%20Report.pdf)
+- [Azure Brief (Word Online)](https://1drv.ms/w/c/2722934ae77427f3/IQAYEa1QdaIeTZn3LAGkSwmGAVGETmNJAnaG2Yk6WwoKsFw?e=prkBzb)
+- [Azure Full Report (Word Online)](https://1drv.ms/w/c/2722934ae77427f3/IQC2a7OqqfElQ4Qr9MwmZHKzAXSL9naO9gCDvcI-n2zbqUQ?e=We9bJV)
+
 
 <br>
 
