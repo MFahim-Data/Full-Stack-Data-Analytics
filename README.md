@@ -168,7 +168,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 `=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K8))`  
 `=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K9))`
 
-*These formulas extract the highest score for each class by filtering student records dynamically.*
+*These formulas extract the highest score for each class by filtering student records.*
 
 <br><br>
 
