@@ -236,8 +236,10 @@ Analysed requirements, designed schema, implemented tables using SQL, and ensure
 <br>
 
 ### Links
-- [SQL Essay Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Essay.pdf)  
-- [SQL Brief Report (PDF)](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Files/SQL/SQL%20-%20Brief.pdf)
+- [SQL Essay Report (Word Online)](https://1drv.ms/w/c/2722934ae77427f3/IQAeRhJNbbVfSafS0-5Zcap5AULdBmFdP9x9hUCQ1Tx-_Bc?e=bTl076)
+
+- [SQL Brief Report (Word Online)](https://1drv.ms/w/c/2722934ae77427f3/IQBnXIBq_8H2S7_pO0dhHzKuASakzefUuIymw9djoC_oc-M?e=XEAY77)
+
 
 <br>
 
