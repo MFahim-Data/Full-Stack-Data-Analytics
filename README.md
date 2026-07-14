@@ -90,6 +90,28 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 <br><br>
 
+
+
+### Category Count Summary – Output
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%202.png" width="60%">
+
+<br>
+*Summary table showing the number of students in each performance category.*
+
+<br>
+
+**Formula Used:**  
+`=COUNTIF(F:F,"Outstanding Achiever")`  
+`=COUNTIF(F:F,"First Class")`  
+`=COUNTIF(F:F,"Second Class")`  
+`=COUNTIF(F:F,"Pass")`  
+`=COUNTIF(F:F,"Fail")`
+
+*These formulas count how many students fall into each score category.*
+
+<br><br>
+
+
 ### Gender Performance Comparison – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%203.png" width="40%">
 
