@@ -93,8 +93,6 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 <br>
 
-<br>
-
 
 
 ### Category Count Summary – Output
@@ -114,7 +112,6 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 *These formulas count how many students fall into each score category.*
 
-<br>
 
 <br>
 
@@ -135,7 +132,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 *These formulas calculate the average score for male and female students separately.*
 
-<br>
+
 
 <br>
 
@@ -161,8 +158,6 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 *These formulas calculate the average score for each class, allowing comparison across grade levels.*
 
-
-<br>
 
 <br>
 
