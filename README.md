@@ -64,6 +64,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 - Rebalance class structures  
 
 <br>
+
 <br>
 
 ### Score Category Classification – Output
@@ -132,7 +133,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 <br>
 
 ### Top Performer Identification – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%205.png" width="40%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%205.png" width="40%">
 
 <br>
 *Top performer identification for each class using dynamic filtering.*
@@ -154,110 +155,6 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 *These formulas extract the highest score for each class by filtering student records dynamically.*
 
 <br>
-
-**Formula Used:**  
-`=IFS(
- D2>=80,"Outstanding Achiever",
- D2>=70,"First Class",
- D2>=60,"Second Class",
- D2>=40,"Pass",
- TRUE,"Fail"
-)`
-
-<br>
-
-*This formula assigns each student a performance category based on their score.*
-
-<br>
-
-### Category Count Summary – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%202.png" width="70%">
-
-<br>
-*Summary table showing the number of students in each performance category.*
-
-<br>
-
-**Formula Used:**  
-`=COUNTIF(F:F,"Outstanding Achiever")`  
-`=COUNTIF(F:F,"First Class")`  
-`=COUNTIF(F:F,"Second Class")`  
-`=COUNTIF(F:F,"Pass")`  
-`=COUNTIF(F:F,"Fail")`
-
-<br>
-
-*These formulas count how many students fall into each score category.*
-
-<br>
-
-### Gender Performance Comparison – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%203.png" width="70%">
-
-<br>
-*Average performance comparison between male and female students.*
-
-<br>
-
-**Formula Used:**  
-`=AVERAGEIF(E:E,"male",D:D)`  
-`=AVERAGEIF(E:E,"female",D:D)`
-
-<br>
-
-*These formulas calculate the average score for male and female students separately.*
-
-<br>
-
-### Class Average Score Analysis – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%204.png" width="70%">
-
-<br>
-*Average class performance across multiple grade levels.*
-
-<br>
-
-**Formula Used:**  
-`=AVERAGEIF(C:C,"Six",D:D)`  
-`=AVERAGEIF(C:C,"Five",D:D)`  
-`=AVERAGEIF(C:C,"Eight",D:D)`  
-`=AVERAGEIF(C:C,"Fifth",D:D)`  
-`=AVERAGEIF(C:C,"Seven",D:D)`  
-`=AVERAGEIF(C:C,"Three",D:D)`  
-`=AVERAGEIF(C:C,"Four",D:D)`  
-`=AVERAGEIF(C:C,"Nine",D:D)`
-
-<br>
-
-*These formulas calculate the average score for each class, allowing comparison across grade levels.*
-
-<br>
-
-### Top Performer Identification – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%205.png" width="70%">
-
-<br>
-*Top performer identification for each class using dynamic filtering.*
-
-<br>
-
-**Formula Used:**  
-`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K2))`  
-`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K3))`  
-`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K4))`  
-`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K5))`  
-`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K6))`  
-`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K7))`  
-`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K8))`  
-`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K9))`
-
-<br>
-
-*These formulas extract the highest score for each class by filtering student records dynamically.*
-
-<br>
-
-
 
 
 
