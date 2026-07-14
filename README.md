@@ -93,12 +93,100 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 <br>
 
-### Additional Summary View – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%202.png" width="100%">
 
-*Additional view of the student performance calculations and summary tables.*
+### Student Performance Data – Output
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%201.png" width="100%">
+*Student dataset analysis including score categories, averages, and top‑performer identification.*
 
 <br>
+
+**Formula Used:**  
+`=IFS(
+ D2>=80,"Outstanding Achiever",
+ D2>=70,"First Class",
+ D2>=60,"Second Class",
+ D2>=40,"Pass",
+ TRUE,"Fail"
+)`
+
+*This formula assigns each student a performance category based on their score.*
+
+
+<br>
+
+
+
+### Student Performance Data – Output
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%203.png" width="100%">
+
+<br>
+*Average performance comparison between male and female students.*
+
+<br>
+
+**Formula Used:**  
+`=AVERAGEIF(E:E,"male",D:D)`  
+`=AVERAGEIF(E:E,"female",D:D)`
+
+<br>
+
+*These formulas calculate the average score for male and female students separately.*
+
+<br>
+
+
+### Student Performance Data – Output
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%204.png" width="100%">
+
+<br>
+*Average class performance across multiple grade levels.*
+
+<br>
+
+**Formula Used:**  
+`=AVERAGEIF(C:C,"Six",D:D)`  
+`=AVERAGEIF(C:C,"Five",D:D)`  
+`=AVERAGEIF(C:C,"Eight",D:D)`  
+`=AVERAGEIF(C:C,"Fifth",D:D)`  
+`=AVERAGEIF(C:C,"Seven",D:D)`  
+`=AVERAGEIF(C:C,"Three",D:D)`  
+`=AVERAGEIF(C:C,"Four",D:D)`  
+`=AVERAGEIF(C:C,"Nine",D:D)`
+
+<br>
+
+*These formulas calculate the average score for each class, allowing comparison across grade levels.*
+
+<br>
+
+
+### Student Performance Data – Output
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%205.png" width="100%">
+
+<br>
+*Top performer identification for each class using dynamic filtering.*
+
+<br>
+
+**Formula Used:**  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K2))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K3))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K4))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K5))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K6))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K7))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K8))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K9))`
+
+<br>
+
+*These formulas extract the highest score for each class by filtering student records dynamically.*
+
+<br>
+
+
+
+
 
 ### Links
 - [View Full Dataset (Excel)](https://1drv.ms/x/c/2722934ae77427f3/IQA-_CRNiwAqS670eM3fbszRAXWdxx5I9o17spBvk7uiNjQ?e=3fLb2V)
