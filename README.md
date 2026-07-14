@@ -191,7 +191,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 ### Links
 - [View Full Dataset (Excel)](https://1drv.ms/x/c/2722934ae77427f3/IQA-_CRNiwAqS670eM3fbszRAXWdxx5I9o17spBvk7uiNjQ?e=3fLb2V)
 
-
+*This link provides access to the full Excel dataset for detailed review.*
 
 
 <br>
@@ -246,6 +246,8 @@ Connected the dataset, checked data types, built multiple worksheets, and combin
 ### Links
 - [Tableau Public Dashboard](https://public.tableau.com/shared/CD8MMQ3PK?:display_count=n&:origin=viz_share_link)
 
+*This link provides access to the full TableAU Dashboard and Dataset for View.*
+
 <br>
 
 ---
@@ -295,6 +297,8 @@ Build an interactive Power BI dashboard to analyse retail sales performance, ide
 
 ### Links
 - [Power BI Dashboard](https://app.powerbi.com/links/PMd5n60xXh?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
+
+*This link provides access to the full PowerBI Dashboard and Dataset for View.*
 
 <br>
 
@@ -356,6 +360,8 @@ Analysed requirements, designed schema, implemented tables using SQL, and ensure
 - [SQL Brief Report (Word Online)](https://1drv.ms/w/c/2722934ae77427f3/IQBnXIBq_8H2S7_pO0dhHzKuASakzefUuIymw9djoC_oc-M?e=XEAY77)
 
 
+*This link provides access to the full Report and Brief in Word document Format*
+
 <br>
 
 ---
@@ -402,6 +408,7 @@ Designed Azure SQL Database, Synapse Analytics, Data Factory pipelines, and secu
 - [Azure Brief (Word Online)](https://1drv.ms/w/c/2722934ae77427f3/IQAYEa1QdaIeTZn3LAGkSwmGAVGETmNJAnaG2Yk6WwoKsFw?e=prkBzb)
 - [Azure Full Report (Word Online)](https://1drv.ms/w/c/2722934ae77427f3/IQC2a7OqqfElQ4Qr9MwmZHKzAXSL9naO9gCDvcI-n2zbqUQ?e=We9bJV)
 
+*This link provides access to the full Azure Report and Brief for View*
 
 <br>
 
@@ -452,6 +459,8 @@ Used read_csv, head, info, describe, loc, iloc, groupby, pivot_table, and to_csv
 
 ### Links
 - [Pandas Pivot Table Notebook](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/PANDAS_Pivot_Table.ipynb)
+
+*This link provides access to the full Google Collab Coding Session for View*
 
 <br>
 
@@ -514,6 +523,8 @@ Used read_csv, head, tail, plt.figure, plt.hist, sns.boxplot, sns.countplot, sns
 
 ### Links
 - [Student Data Analysis Notebook](https://github.com/MFahim-Data/Full-Stack-Data-Analytics/blob/main/Code%20-%20Student_Data_Analysis_Task_2_Cleaning_and_Visualising_data.ipynb)
+
+*This link provides access to the full Google Collab Coding Session for View*
 
 <br>
 
