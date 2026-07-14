@@ -72,7 +72,6 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 ### Score Category Classification – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%201.png" width="60%">
 
-<br>
 *Student dataset analysis including score categories, averages, and top‑performer identification.*
 
 <br>
@@ -86,7 +85,6 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
  TRUE,"Fail"
 )`
 
-<br>
 *This formula assigns each student a performance category based on their score.*
 
 <br> <br>
@@ -103,7 +101,6 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 `=AVERAGEIF(E:E,"male",D:D)`  
 `=AVERAGEIF(E:E,"female",D:D)`
 
-<br>
 *These formulas calculate the average score for male and female students separately.*
 
 <br><br>
@@ -126,7 +123,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 `=AVERAGEIF(C:C,"Four",D:D)`  
 `=AVERAGEIF(C:C,"Nine",D:D)`
 
-<br>
+
 *These formulas calculate the average score for each class, allowing comparison across grade levels.*
 
 <br> <br>
@@ -149,7 +146,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 `=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K8))`  
 `=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K9))`
 
-<br>
+
 *These formulas extract the highest score for each class by filtering student records dynamically.*
 
 <br> <br>
