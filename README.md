@@ -64,16 +64,13 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 - Rebalance class structures  
 
 <br>
+<br>
 
-### Student Performance Data – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%201.png" width="100%">
-
+### Score Category Classification – Output
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%201.png" width="40%">
 
 <br>
 *Student dataset analysis including score categories, averages, and top‑performer identification.*
-
-
-
 
 <br>
 
@@ -86,17 +83,14 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
  TRUE,"Fail"
 )`
 
-
 <br>
 
 *This formula assigns each student a performance category based on their score.*
 
 <br>
 
-
-
-### Student Performance Data – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%203.png" width="100%">
+### Gender Performance Comparison – Output
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%203.png" width="40%">
 
 <br>
 *Average performance comparison between male and female students.*
@@ -113,9 +107,8 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 <br>
 
-
-### Student Performance Data – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%204.png" width="100%">
+### Class Average Score Analysis – Output
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%204.png" width="40%">
 
 <br>
 *Average class performance across multiple grade levels.*
@@ -138,11 +131,27 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 <br>
 
-### Score Category Classification – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%201.png" width="70%">
+### Top Performer Identification – Output
+<img src="https://raw.githubusercontent.com/MFahim-Data/Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%205.png" width="40%">
 
 <br>
-*Student dataset analysis including score categories, averages, and top‑performer identification.*
+*Top performer identification for each class using dynamic filtering.*
+
+<br>
+
+**Formula Used:**  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K2))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K3))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K4))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K5))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K6))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K7))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K8))`  
+`=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K9))`
+
+<br>
+
+*These formulas extract the highest score for each class by filtering student records dynamically.*
 
 <br>
 
