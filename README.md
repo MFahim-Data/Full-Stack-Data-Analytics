@@ -70,7 +70,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 <br>
 
 ### Score Category Classification – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%201.png" width="50%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%201.png" width="60%">
 
 <br>
 *Student dataset analysis including score categories, averages, and top‑performer identification.*
