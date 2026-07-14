@@ -94,27 +94,6 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 <br>
 
 
-### Student Performance Data – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%201.png" width="100%">
-*Student dataset analysis including score categories, averages, and top‑performer identification.*
-
-<br>
-
-**Formula Used:**  
-`=IFS(
- D2>=80,"Outstanding Achiever",
- D2>=70,"First Class",
- D2>=60,"Second Class",
- D2>=40,"Pass",
- TRUE,"Fail"
-)`
-
-*This formula assigns each student a performance category based on their score.*
-
-
-<br>
-
-
 
 ### Student Performance Data – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%203.png" width="100%">
