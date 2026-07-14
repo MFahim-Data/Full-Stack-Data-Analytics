@@ -63,7 +63,9 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 - Provide targeted support for male students  
 - Rebalance class structures  
 
-<br>
+<br><br>
+
+## Images
 
 <br>
 
@@ -85,10 +87,9 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 )`
 
 <br>
-
 *This formula assigns each student a performance category based on their score.*
 
-<br>
+<br><br>
 
 ### Gender Performance Comparison – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%203.png" width="40%">
@@ -103,10 +104,9 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 `=AVERAGEIF(E:E,"female",D:D)`
 
 <br>
-
 *These formulas calculate the average score for male and female students separately.*
 
-<br>
+<br><br>
 
 ### Class Average Score Analysis – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%204.png" width="40%">
@@ -127,10 +127,9 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 `=AVERAGEIF(C:C,"Nine",D:D)`
 
 <br>
-
 *These formulas calculate the average score for each class, allowing comparison across grade levels.*
 
-<br>
+<br><br>
 
 ### Top Performer Identification – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%205.png" width="40%">
@@ -151,18 +150,11 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 `=MAX(FILTER($D$2:$D$36, $C$2:$C$36=K9))`
 
 <br>
-
 *These formulas extract the highest score for each class by filtering student records dynamically.*
 
-<br>
+<br><br>
 
 
-
-### Links
-- [View Full Dataset (Excel)](https://1drv.ms/x/c/2722934ae77427f3/IQA-_CRNiwAqS670eM3fbszRAXWdxx5I9o17spBvk7uiNjQ?e=3fLb2V)
-
-
-<br>
 
 ---
 
