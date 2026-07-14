@@ -88,7 +88,12 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 *This formula assigns each student a performance category based on their score.*
 
-<br><br>
+
+<br>
+
+<br>
+
+<br>
 
 
 
@@ -109,7 +114,11 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 *These formulas count how many students fall into each score category.*
 
-<br><br>
+<br>
+
+<br>
+
+<br>
 
 
 ### Gender Performance Comparison – Output
@@ -126,7 +135,11 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 *These formulas calculate the average score for male and female students separately.*
 
-<br><br>
+<br>
+
+<br>
+
+<br>
 
 ### Class Average Score Analysis – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%204.png" width="30%">
@@ -148,7 +161,12 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 *These formulas calculate the average score for each class, allowing comparison across grade levels.*
 
-<br><br>
+
+<br>
+
+<br>
+
+<br>
 
 ### Top Performer Identification – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%205.png" width="40%">
@@ -170,8 +188,12 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 *These formulas extract the highest score for each class by filtering student records.*
 
-<br><br>
 
+<br>
+
+<br>
+
+<br>
 ---
 
 <a name="project-2-tableau"></a>
