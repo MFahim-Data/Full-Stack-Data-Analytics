@@ -80,12 +80,16 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
  TRUE,"Fail"
 )`
 
+
+<br>
+
 *This formula assigns each student a performance category based on their score.*
 
 <br>
 
 ### Additional Summary View – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%202.png" width="100%">
+
 *Additional view of the student performance calculations and summary tables.*
 
 <br>
