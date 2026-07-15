@@ -10,8 +10,8 @@ This GitHub Pages site showcases all my course modules, including real code, vis
 <a name="table-of-contents"></a>
 ## Table of Contents – Core Skills                                                                                    
 - **[Excel](#project-1-excel)** — tables, filters, formulas, structured data modelling  
-- **[Tableau](#project-2-tableau)** — charts, dashboards, collaborative visual storytelling  
-- **[Power BI](#project-3-power-bi)** — data cleaning, relationships, interactive reporting  
+- **[Tableau](#project-2-tableau)** — charts, dashboards, collaborative visual storytelling 
+- **[Power BI](#project-3-power-bi)** — data cleaning, relationships, interactive reporting 
 - **[SQL](#project-4-sql)** — joins, grouping, business logic systems, insights  
 - **[Azure](#project-5-azure)** — Synapse Analytics, Machine Learning notebooks, Data Factory pipelines  
 - **[Pandas](#project-6-pandas)** — data cleaning, filtering, grouping, Colab notebooks  
@@ -242,6 +242,8 @@ Connected the dataset, checked data types, built multiple worksheets, and combin
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Global%20Health%20Insights%20Dashboard.png" width="100%">
 *Tableau visual created using the GapminderHealth dataset.*
 
+<br>
+
 **Explanation:**  
 This dashboard brings together multiple health indicators to show how life expectancy, BMI, gender distribution, and population vary across continents and over time. It helps identify global health gaps and long‑term trends that can guide public health planning.
 <br>
@@ -295,6 +297,8 @@ Build an interactive Power BI dashboard to analyse retail sales performance, ide
 ### Sales Performance Dashboard – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Power%20Bi/Power%20Bi%20-%20Sales%20-%20Dashboard.PNG" width="100%">
 *Interactive dashboard showing KPIs, category trends, regional breakdowns, Q&A insights, and drill‑downs.*
+
+<br>
 
 **Explanation:**  
 This dashboard provides a full breakdown of retail performance, allowing users to explore sales by region, category, and customer segment. Interactive slicers and drill‑downs help uncover root causes behind strong or weak performance, supporting data‑driven decision‑making.
@@ -358,6 +362,8 @@ Analysed requirements, designed schema, implemented tables using SQL, and ensure
 
 *Entity‑relationship diagrams showing customer, inventory, supplier, and sales relationships.*
 
+<br>
+
 **Explanation:**  
 These ERDs map out how different tables in the retail database connect. They ensure the system supports accurate stock tracking, customer management, and sales recording. Clear relationships reduce errors and make the database easier to maintain and query.
 
@@ -410,6 +416,8 @@ Designed Azure SQL Database, Synapse Analytics, Data Factory pipelines, and secu
 ### Azure Cloud Proposal – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Azure/Azure%20-%20P%26W'S%20Schema.png" width="60%">
 *Azure-based relational schema diagram.*
+
+<br>
 
 **Explanation:**  
 This schema shows how the business’s data flows through Azure services such as SQL Database, Synapse Analytics, and Data Factory. It highlights secure storage, automated pipelines, and scalable analytics — replacing spreadsheets with a reliable cloud architecture.
@@ -466,6 +474,8 @@ Used read_csv, head, info, describe, loc, iloc, groupby, pivot_table, and to_csv
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/PANDAS/PANDAS%20-%20Pivot%20Table.png" width="60%">
 *Pivot table summarising average student scores.*
 
+<br>
+
 **Explanation:**  
 The pivot table groups student performance by class and gender, making it easy to compare averages across categories. It reveals patterns such as stronger classes, weaker classes, and gender‑based performance differences.
 
@@ -521,6 +531,8 @@ Used read_csv, head, tail, plt.figure, plt.hist, sns.boxplot, sns.countplot, sns
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Barchart%20-%201.png" width="60%">
 *Countplot showing class size distribution.*
 
+<br>
+
 **Explanation:**  
 This bar chart shows how many students are in each class. Uneven class sizes can affect teaching quality, resource allocation, and performance comparisons.
 
@@ -530,6 +542,8 @@ This bar chart shows how many students are in each class. Uneven class sizes can
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Heatmap%20-%201.png" width="60%">
 *Correlation heatmap.*
 
+<br>
+
 **Explanation:**  
 The heatmap highlights relationships between variables such as marks, class, and gender. Strong correlations help identify which factors influence student performance the most.
 <br>
@@ -537,6 +551,8 @@ The heatmap highlights relationships between variables such as marks, class, and
 ### Python Visualisation – Box & Whisker Plot
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Whiskers%20-%201.png" width="60%">
 *Score distribution and outliers.*
+
+<br>
 
 **Explanation:**  
 This boxplot shows score spread, median performance, and outliers. It helps identify students who are significantly underperforming or excelling compared to the rest of the group.
