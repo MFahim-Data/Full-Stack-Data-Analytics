@@ -503,19 +503,19 @@ Used read_csv, head, tail, plt.figure, plt.hist, sns.boxplot, sns.countplot, sns
 <br>
 
 ### Python Visualisation – Bar Chart
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Barchart%20-%201.png" width="100%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Barchart%20-%201.png" width="60%">
 *Countplot showing class size distribution.*
 
 <br>
 
 ### Python Visualisation – Heatmap
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Heatmap%20-%201.png" width="100%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Heatmap%20-%201.png" width="60%">
 *Correlation heatmap.*
 
 <br>
 
 ### Python Visualisation – Box & Whisker Plot
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Whiskers%20-%201.png" width="100%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Whiskers%20-%201.png" width="60%">
 *Score distribution and outliers.*
 
 <br>
