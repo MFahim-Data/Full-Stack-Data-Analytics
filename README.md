@@ -70,7 +70,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 <br>
 
 ### Score Category Classification – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%201.png" width="60%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%201.png" width="80%">
 
 <br>
 *Student dataset analysis including score categories, averages, and top‑performer identification.*
@@ -122,7 +122,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 - [View Full Dataset (Excel)](https://1drv.ms/x/c/2722934ae77427f3/IQA-_CRNiwAqS670eM3fbszRAXWdxx5I9o17spBvk7uiNjQ?e=3fLb2V)
 
-*This link provides access to the full Excel dataset for detailed review.*
+*This link provides access to the full Excel dataset for further analysis done.*
 
 
 <br>
@@ -169,7 +169,7 @@ Connected the dataset, checked data types, built multiple worksheets, and combin
 <br>
 
 ### Tableau Visual – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Global%20Health%20Insights%20Dashboard.png" width="100%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Global%20Health%20Insights%20Dashboard.png" width="120%">
 *Tableau visual created using the GapminderHealth dataset.*
 
 <br>
@@ -225,7 +225,7 @@ Build an interactive Power BI dashboard to analyse retail sales performance, ide
 <br>
 
 ### Sales Performance Dashboard – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Power%20Bi/Power%20Bi%20-%20Sales%20-%20Dashboard.PNG" width="100%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Power%20Bi/Power%20Bi%20-%20Sales%20-%20Dashboard.PNG" width="120%">
 *Interactive dashboard showing KPIs, category trends, regional breakdowns, Q&A insights, and drill‑downs.*
 
 <br>
@@ -285,10 +285,10 @@ Analysed requirements, designed schema, implemented tables using SQL, and ensure
 <br>
 
 ### Customer ERD – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD.png" width="30%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD.png" width="50%">
 
 
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD%202.png" width="30%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/SQL/Customer_ERD%202.png" width="50%">
 
 *Entity‑relationship diagrams showing customer, inventory, supplier, and sales relationships.*
 
@@ -344,7 +344,7 @@ Designed Azure SQL Database, Synapse Analytics, Data Factory pipelines, and secu
 <br>
 
 ### Azure Cloud Proposal – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Azure/Azure%20-%20P%26W'S%20Schema.png" width="60%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Azure/Azure%20-%20P%26W'S%20Schema.png" width="80%">
 
 <br>
 
@@ -404,7 +404,7 @@ Used read_csv, head, info, describe, loc, iloc, groupby, pivot_table, and to_csv
 <br>
 
 ### Pandas Pivot Table – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/PANDAS/PANDAS%20-%20Pivot%20Table.png" width="60%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/PANDAS/PANDAS%20-%20Pivot%20Table.png" width="80%">
 
 <br>
 
@@ -464,7 +464,7 @@ Used read_csv, head, tail, plt.figure, plt.hist, sns.boxplot, sns.countplot, sns
 <br>
 
 ### Python Visualisation – Bar Chart
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Barchart%20-%201.png" width="60%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Barchart%20-%201.png" width="80%">
 
 <br>
 
@@ -478,7 +478,7 @@ This bar chart shows how many students are in each class. Uneven class sizes can
 <br>
 
 ### Python Visualisation – Heatmap
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Heatmap%20-%201.png" width="60%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Heatmap%20-%201.png" width="80%">
 
 <br>
 *Correlation heatmap.*
@@ -490,7 +490,7 @@ The heatmap highlights relationships between variables such as marks, class, and
 <br>
 
 ### Python Visualisation – Box & Whisker Plot
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Whiskers%20-%201.png" width="60%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Whiskers%20-%201.png" width="80%">
 
 <br>
 
