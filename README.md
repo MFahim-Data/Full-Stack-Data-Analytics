@@ -415,6 +415,9 @@ Designed Azure SQL Database, Synapse Analytics, Data Factory pipelines, and secu
 
 ### Azure Cloud Proposal – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Azure/Azure%20-%20P%26W'S%20Schema.png" width="60%">
+
+<br>
+
 *Azure-based relational schema diagram.*
 
 <br>
@@ -472,6 +475,9 @@ Used read_csv, head, info, describe, loc, iloc, groupby, pivot_table, and to_csv
 
 ### Pandas Pivot Table – Output
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/PANDAS/PANDAS%20-%20Pivot%20Table.png" width="60%">
+
+<br>
+
 *Pivot table summarising average student scores.*
 
 <br>
@@ -529,6 +535,9 @@ Used read_csv, head, tail, plt.figure, plt.hist, sns.boxplot, sns.countplot, sns
 
 ### Python Visualisation – Bar Chart
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Barchart%20-%201.png" width="60%">
+
+<br>
+
 *Countplot showing class size distribution.*
 
 <br>
@@ -540,6 +549,8 @@ This bar chart shows how many students are in each class. Uneven class sizes can
 
 ### Python Visualisation – Heatmap
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Heatmap%20-%201.png" width="60%">
+
+<br>
 *Correlation heatmap.*
 
 <br>
@@ -550,6 +561,9 @@ The heatmap highlights relationships between variables such as marks, class, and
 
 ### Python Visualisation – Box & Whisker Plot
 <img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Python%20-/Python%20-%20Whiskers%20-%201.png" width="60%">
+
+<br>
+
 *Score distribution and outliers.*
 
 <br>
