@@ -113,10 +113,31 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 *These formulas count how many students fall into each score category.*
 
 
-<br>
 
 <br>
 
+<br>
+
+
+### Gender Performance Comparison – Output
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%203.png" width="40%">
+
+<br>
+Average performance comparison between male and female students.
+
+<br>
+
+*Formula Used:*  
+=AVERAGEIF(E:E,"male",D:D)  
+=AVERAGEIF(E:E,"female",D:D)
+
+These formulas calculate the average score for male and female students separately.
+
+
+
+<br>
+
+<br>
 
 ### Links
 
