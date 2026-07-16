@@ -120,7 +120,7 @@ Developed new fields, applied conditional logic, used aggregate Excel functions,
 
 
 ### Gender Performance Comparison – Output
-<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%203.png" width="40%">
+<img src="https://raw.githubusercontent.com/MFahim-Data/Full-Stack-Data-Analytics/main/Images/Excel/Excel%20Student%20Image%20%20-%20%203.png" width="70%">
 
 <br>
 Average performance comparison between male and female students.
